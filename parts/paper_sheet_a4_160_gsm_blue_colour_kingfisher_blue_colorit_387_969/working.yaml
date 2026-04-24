@@ -1,0 +1,117 @@
+bip_39_2_word_array:
+- fence
+- twin
+bip_39_2_word_no_space: fencetwin
+bip_39_2_word_space: fence twin
+bip_39_2_word_underscore: fence_twin
+bip_39_3_word_array:
+- fence
+- twin
+- setup
+bip_39_3_word_no_space: fencetwinsetup
+bip_39_3_word_space: fence twin setup
+bip_39_3_word_underscore: fence_twin_setup
+bip_39_full_array:
+- fence
+- twin
+- setup
+- isolate
+- radio
+- online
+- that
+- awful
+- north
+- person
+- short
+- winner
+bip_39_full_no_space: fencetwinsetupisolateradioonlinethatawfulnorthpersonshortwinner
+bip_39_full_space: fence twin setup isolate radio online that awful north person short
+    winner
+bip_39_full_underscore: fence_twin_setup_isolate_radio_online_that_awful_north_person_short_winner
+directory: parts/paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+generate_stl: false
+id: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+id_no_class: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+id_no_size: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+id_no_type: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+md5: 551d6f123b4b0d35f7f88596546b1b7d
+md5_10: 551d6f123b
+md5_10_upper: 551D6F123B
+md5_5: 551d6
+md5_5_upper: 551D6
+md5_6: 551d6f
+md5_6_alpha: 3bk33
+md5_6_alpha_upper: 3BK33
+md5_6_upper: 551D6F
+name: Paper Sheet A4 160 Gsm Blue Colour Kingfisher Blue Colorit 387 969
+name_no_class: Paper Sheet A4 160 Gsm Blue Colour Kingfisher Blue Colorit 387 969
+name_no_size: Paper Sheet A4 160 Gsm Blue Colour Kingfisher Blue Colorit 387 969
+name_no_type: Paper Sheet A4 160 Gsm Blue Colour Kingfisher Blue Colorit 387 969
+name_proper: Paper Sheet A4 160 Gsm Blue Colour Kingfisher Blue Colorit 387 969
+name_space: paper sheet a4 160 gsm blue colour kingfisher blue colorit 387 969
+name_upper: PAPER SHEET A4 160 GSM BLUE COLOUR KINGFISHER BLUE COLORIT 387 969
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 160 gsm blue colour kingfisher blue
+            colorit 387 969 make sure to include an item that is identified by the
+            colour included so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: kingfisher_blue
+taxonomy_13_capital: Kingfisher Blue
+taxonomy_13_first_letter: k
+taxonomy_13_first_letter_upper: K
+taxonomy_13_upper: KINGFISHER_BLUE
+taxonomy_14: colorit
+taxonomy_14_capital: Colorit
+taxonomy_14_first_letter: c
+taxonomy_14_first_letter_upper: C
+taxonomy_14_upper: COLORIT
+taxonomy_15: '387_969'
+taxonomy_15_capital: '387.969'
+taxonomy_15_first_letter: '3'
+taxonomy_15_first_letter_upper: '3'
+taxonomy_15_upper: '387_969'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 160_gsm
+taxonomy_4_capital: 160 Gsm
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_upper: 160_GSM
+taxonomy_5: blue_colour
+taxonomy_5_capital: Blue Colour
+taxonomy_5_first_letter: b
+taxonomy_5_first_letter_upper: B
+taxonomy_5_upper: BLUE_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea7a6d-0ffc-83eb-b846-6d68c8f5a096

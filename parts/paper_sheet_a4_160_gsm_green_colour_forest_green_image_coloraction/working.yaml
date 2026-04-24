@@ -1,0 +1,114 @@
+bip_39_2_word_array:
+- face
+- mistake
+bip_39_2_word_no_space: facemistake
+bip_39_2_word_space: face mistake
+bip_39_2_word_underscore: face_mistake
+bip_39_3_word_array:
+- face
+- mistake
+- vivid
+bip_39_3_word_no_space: facemistakevivid
+bip_39_3_word_space: face mistake vivid
+bip_39_3_word_underscore: face_mistake_vivid
+bip_39_full_array:
+- face
+- mistake
+- vivid
+- proof
+- box
+- stadium
+- daughter
+- number
+- issue
+- occur
+- beauty
+- use
+bip_39_full_no_space: facemistakevividproofboxstadiumdaughternumberissueoccurbeautyuse
+bip_39_full_space: face mistake vivid proof box stadium daughter number issue occur
+    beauty use
+bip_39_full_underscore: face_mistake_vivid_proof_box_stadium_daughter_number_issue_occur_beauty_use
+directory: parts/paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+generate_stl: false
+id: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+id_no_class: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+id_no_size: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+id_no_type: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+md5: 5191bfd4d621a9a7cdf4bb76b3184ef7
+md5_10: 5191bfd4d6
+md5_10_upper: 5191BFD4D6
+md5_5: 5191b
+md5_5_upper: 5191B
+md5_6: 5191bf
+md5_6_alpha: 36ksf
+md5_6_alpha_upper: 36KSF
+md5_6_upper: 5191BF
+name: Paper Sheet A4 160 Gsm Green Colour Forest Green Image Coloraction
+name_no_class: Paper Sheet A4 160 Gsm Green Colour Forest Green Image Coloraction
+name_no_size: Paper Sheet A4 160 Gsm Green Colour Forest Green Image Coloraction
+name_no_type: Paper Sheet A4 160 Gsm Green Colour Forest Green Image Coloraction
+name_proper: Paper Sheet A4 160 Gsm Green Colour Forest Green Image Coloraction
+name_space: paper sheet a4 160 gsm green colour forest green image coloraction
+name_upper: PAPER SHEET A4 160 GSM GREEN COLOUR FOREST GREEN IMAGE COLORACTION
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 160 gsm green colour forest green
+            image coloraction make sure to include an item that is identified by the
+            colour included so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: forest_green
+taxonomy_13_capital: Forest Green
+taxonomy_13_first_letter: f
+taxonomy_13_first_letter_upper: F
+taxonomy_13_upper: FOREST_GREEN
+taxonomy_14: image_coloraction
+taxonomy_14_capital: Image Coloraction
+taxonomy_14_first_letter: i
+taxonomy_14_first_letter_upper: I
+taxonomy_14_upper: IMAGE_COLORACTION
+taxonomy_15: ''
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 160_gsm
+taxonomy_4_capital: 160 Gsm
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_upper: 160_GSM
+taxonomy_5: green_colour
+taxonomy_5_capital: Green Colour
+taxonomy_5_first_letter: g
+taxonomy_5_first_letter_upper: G
+taxonomy_5_upper: GREEN_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+upc: 03597320018206
+url_chat: https://chatgpt.com/c/69ea6c30-21b8-83eb-b630-08bc22d8af4c

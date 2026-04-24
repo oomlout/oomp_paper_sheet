@@ -1,0 +1,117 @@
+bip_39_2_word_array:
+- source
+- insane
+bip_39_2_word_no_space: sourceinsane
+bip_39_2_word_space: source insane
+bip_39_2_word_underscore: source_insane
+bip_39_3_word_array:
+- source
+- insane
+- federal
+bip_39_3_word_no_space: sourceinsanefederal
+bip_39_3_word_space: source insane federal
+bip_39_3_word_underscore: source_insane_federal
+bip_39_full_array:
+- source
+- insane
+- federal
+- undo
+- giraffe
+- error
+- inspire
+- jelly
+- nose
+- marriage
+- thumb
+- upper
+bip_39_full_no_space: sourceinsanefederalundogiraffeerrorinspirejellynosemarriagethumbupper
+bip_39_full_space: source insane federal undo giraffe error inspire jelly nose marriage
+    thumb upper
+bip_39_full_underscore: source_insane_federal_undo_giraffe_error_inspire_jelly_nose_marriage_thumb_upper
+directory: parts/paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+generate_stl: false
+id: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+id_no_class: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+id_no_size: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+id_no_type: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+md5: d00e9d51f67622999d53be96710b85f7
+md5_10: d00e9d51f6
+md5_10_upper: D00E9D51F6
+md5_5: d00e9
+md5_5_upper: D00E9
+md5_6: d00e9d
+md5_6_alpha: 8490d
+md5_6_alpha_upper: 8490D
+md5_6_upper: D00E9D
+name: Paper Sheet A4 80 Gsm Pink Pale Colour Peach Papago 21401
+name_no_class: Paper Sheet A4 80 Gsm Pink Pale Colour Peach Papago 21401
+name_no_size: Paper Sheet A4 80 Gsm Pink Pale Colour Peach Papago 21401
+name_no_type: Paper Sheet A4 80 Gsm Pink Pale Colour Peach Papago 21401
+name_proper: Paper Sheet A4 80 Gsm Pink Pale Colour Peach Papago 21401
+name_space: paper sheet a4 80 gsm pink pale colour peach papago 21401
+name_upper: PAPER SHEET A4 80 GSM PINK PALE COLOUR PEACH PAPAGO 21401
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 80 gsm pink pale colour peach papago
+            21401 make sure to include an item that is identified by the colour included
+            so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: peach
+taxonomy_13_capital: Peach
+taxonomy_13_first_letter: p
+taxonomy_13_first_letter_upper: P
+taxonomy_13_upper: PEACH
+taxonomy_14: papago
+taxonomy_14_capital: Papago
+taxonomy_14_first_letter: p
+taxonomy_14_first_letter_upper: P
+taxonomy_14_upper: PAPAGO
+taxonomy_15: '21401'
+taxonomy_15_capital: '21401'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_upper: '21401'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 80_gsm
+taxonomy_4_capital: 80 Gsm
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_upper: 80_GSM
+taxonomy_5: pink_pale_colour
+taxonomy_5_capital: Pink Pale Colour
+taxonomy_5_first_letter: p
+taxonomy_5_first_letter_upper: P
+taxonomy_5_upper: PINK_PALE_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea2b11-4728-83eb-9882-dce6425f2f55

@@ -1,0 +1,117 @@
+bip_39_2_word_array:
+- artefact
+- cup
+bip_39_2_word_no_space: artefactcup
+bip_39_2_word_space: artefact cup
+bip_39_2_word_underscore: artefact_cup
+bip_39_3_word_array:
+- artefact
+- cup
+- sleep
+bip_39_3_word_no_space: artefactcupsleep
+bip_39_3_word_space: artefact cup sleep
+bip_39_3_word_underscore: artefact_cup_sleep
+bip_39_full_array:
+- artefact
+- cup
+- sleep
+- observe
+- head
+- bottom
+- swamp
+- session
+- wisdom
+- wrestle
+- mango
+- lunch
+bip_39_full_no_space: artefactcupsleepobserveheadbottomswampsessionwisdomwrestlemangolunch
+bip_39_full_space: artefact cup sleep observe head bottom swamp session wisdom wrestle
+    mango lunch
+bip_39_full_underscore: artefact_cup_sleep_observe_head_bottom_swamp_session_wisdom_wrestle_mango_lunch
+directory: parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+generate_stl: false
+id: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+id_no_class: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+id_no_size: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+id_no_type: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+md5: 0ce6b72ccc36a034b6ce22fc5fca1cc2
+md5_10: 0ce6b72ccc
+md5_10_upper: 0CE6B72CCC
+md5_5: 0ce6b
+md5_5_upper: 0CE6B
+md5_6: 0ce6b7
+md5_6_alpha: i4dz
+md5_6_alpha_upper: I4DZ
+md5_6_upper: 0CE6B7
+name: Paper Sheet A4 80 Gsm Blue Light Colour Sky Blue Papago 21514
+name_no_class: Paper Sheet A4 80 Gsm Blue Light Colour Sky Blue Papago 21514
+name_no_size: Paper Sheet A4 80 Gsm Blue Light Colour Sky Blue Papago 21514
+name_no_type: Paper Sheet A4 80 Gsm Blue Light Colour Sky Blue Papago 21514
+name_proper: Paper Sheet A4 80 Gsm Blue Light Colour Sky Blue Papago 21514
+name_space: paper sheet a4 80 gsm blue light colour sky blue papago 21514
+name_upper: PAPER SHEET A4 80 GSM BLUE LIGHT COLOUR SKY BLUE PAPAGO 21514
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 80 gsm blue light colour sky blue
+            papago 21514 make sure to include an item that is identified by the colour
+            included so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: sky_blue
+taxonomy_13_capital: Sky Blue
+taxonomy_13_first_letter: s
+taxonomy_13_first_letter_upper: S
+taxonomy_13_upper: SKY_BLUE
+taxonomy_14: papago
+taxonomy_14_capital: Papago
+taxonomy_14_first_letter: p
+taxonomy_14_first_letter_upper: P
+taxonomy_14_upper: PAPAGO
+taxonomy_15: '21514'
+taxonomy_15_capital: '21514'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_upper: '21514'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 80_gsm
+taxonomy_4_capital: 80 Gsm
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_upper: 80_GSM
+taxonomy_5: blue_light_colour
+taxonomy_5_capital: Blue Light Colour
+taxonomy_5_first_letter: b
+taxonomy_5_first_letter_upper: B
+taxonomy_5_upper: BLUE_LIGHT_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea254f-9a00-83eb-ac46-b7831c42cd74

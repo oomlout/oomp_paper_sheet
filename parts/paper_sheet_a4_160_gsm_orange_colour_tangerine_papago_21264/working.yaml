@@ -1,0 +1,117 @@
+bip_39_2_word_array:
+- syrup
+- permit
+bip_39_2_word_no_space: syruppermit
+bip_39_2_word_space: syrup permit
+bip_39_2_word_underscore: syrup_permit
+bip_39_3_word_array:
+- syrup
+- permit
+- leaf
+bip_39_3_word_no_space: syruppermitleaf
+bip_39_3_word_space: syrup permit leaf
+bip_39_3_word_underscore: syrup_permit_leaf
+bip_39_full_array:
+- syrup
+- permit
+- leaf
+- goose
+- palace
+- dress
+- sibling
+- camp
+- vital
+- noise
+- access
+- shoot
+bip_39_full_no_space: syruppermitleafgoosepalacedresssiblingcampvitalnoiseaccessshoot
+bip_39_full_space: syrup permit leaf goose palace dress sibling camp vital noise access
+    shoot
+bip_39_full_underscore: syrup_permit_leaf_goose_palace_dress_sibling_camp_vital_noise_access_shoot
+directory: parts/paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+generate_stl: false
+id: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+id_no_class: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+id_no_size: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+id_no_type: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+md5: dcb465fab249f28571e906f512b80563
+md5_10: dcb465fab2
+md5_10_upper: DCB465FAB2
+md5_5: dcb46
+md5_5_upper: DCB46
+md5_6: dcb465
+md5_6_alpha: 8m0kl
+md5_6_alpha_upper: 8M0KL
+md5_6_upper: DCB465
+name: Paper Sheet A4 160 Gsm Orange Colour Tangerine Papago 21264
+name_no_class: Paper Sheet A4 160 Gsm Orange Colour Tangerine Papago 21264
+name_no_size: Paper Sheet A4 160 Gsm Orange Colour Tangerine Papago 21264
+name_no_type: Paper Sheet A4 160 Gsm Orange Colour Tangerine Papago 21264
+name_proper: Paper Sheet A4 160 Gsm Orange Colour Tangerine Papago 21264
+name_space: paper sheet a4 160 gsm orange colour tangerine papago 21264
+name_upper: PAPER SHEET A4 160 GSM ORANGE COLOUR TANGERINE PAPAGO 21264
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 160 gsm orange colour tangerine papago
+            21264 make sure to include an item that is identified by the colour included
+            so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: tangerine
+taxonomy_13_capital: Tangerine
+taxonomy_13_first_letter: t
+taxonomy_13_first_letter_upper: T
+taxonomy_13_upper: TANGERINE
+taxonomy_14: papago
+taxonomy_14_capital: Papago
+taxonomy_14_first_letter: p
+taxonomy_14_first_letter_upper: P
+taxonomy_14_upper: PAPAGO
+taxonomy_15: '21264'
+taxonomy_15_capital: '21264'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_upper: '21264'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 160_gsm
+taxonomy_4_capital: 160 Gsm
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_upper: 160_GSM
+taxonomy_5: orange_colour
+taxonomy_5_capital: Orange Colour
+taxonomy_5_first_letter: o
+taxonomy_5_first_letter_upper: O
+taxonomy_5_upper: ORANGE_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea6d5f-b150-83eb-a1dc-cc2d39f529c5

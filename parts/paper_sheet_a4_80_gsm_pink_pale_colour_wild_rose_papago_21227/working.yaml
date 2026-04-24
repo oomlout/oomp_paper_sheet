@@ -1,0 +1,117 @@
+bip_39_2_word_array:
+- rapid
+- idea
+bip_39_2_word_no_space: rapididea
+bip_39_2_word_space: rapid idea
+bip_39_2_word_underscore: rapid_idea
+bip_39_3_word_array:
+- rapid
+- idea
+- mention
+bip_39_3_word_no_space: rapidideamention
+bip_39_3_word_space: rapid idea mention
+bip_39_3_word_underscore: rapid_idea_mention
+bip_39_full_array:
+- rapid
+- idea
+- mention
+- jungle
+- sign
+- lyrics
+- weasel
+- zero
+- mirror
+- topic
+- great
+- card
+bip_39_full_no_space: rapidideamentionjunglesignlyricsweaselzeromirrortopicgreatcard
+bip_39_full_space: rapid idea mention jungle sign lyrics weasel zero mirror topic
+    great card
+bip_39_full_underscore: rapid_idea_mention_jungle_sign_lyrics_weasel_zero_mirror_topic_great_card
+directory: parts/paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+generate_stl: false
+id: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+id_no_class: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+id_no_size: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+id_no_type: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+md5: b1ee0e2c3c8c850afe27fd8d9ca19891
+md5_10: b1ee0e2c3c
+md5_10_upper: B1EE0E2C3C
+md5_5: b1ee0
+md5_5_upper: B1EE0
+md5_6: b1ee0e
+md5_6_alpha: 6xxji
+md5_6_alpha_upper: 6XXJI
+md5_6_upper: B1EE0E
+name: Paper Sheet A4 80 Gsm Pink Pale Colour Wild Rose Papago 21227
+name_no_class: Paper Sheet A4 80 Gsm Pink Pale Colour Wild Rose Papago 21227
+name_no_size: Paper Sheet A4 80 Gsm Pink Pale Colour Wild Rose Papago 21227
+name_no_type: Paper Sheet A4 80 Gsm Pink Pale Colour Wild Rose Papago 21227
+name_proper: Paper Sheet A4 80 Gsm Pink Pale Colour Wild Rose Papago 21227
+name_space: paper sheet a4 80 gsm pink pale colour wild rose papago 21227
+name_upper: PAPER SHEET A4 80 GSM PINK PALE COLOUR WILD ROSE PAPAGO 21227
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 80 gsm pink pale colour wild rose
+            papago 21227 make sure to include an item that is identified by the colour
+            included so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: wild_rose
+taxonomy_13_capital: Wild Rose
+taxonomy_13_first_letter: w
+taxonomy_13_first_letter_upper: W
+taxonomy_13_upper: WILD_ROSE
+taxonomy_14: papago
+taxonomy_14_capital: Papago
+taxonomy_14_first_letter: p
+taxonomy_14_first_letter_upper: P
+taxonomy_14_upper: PAPAGO
+taxonomy_15: '21227'
+taxonomy_15_capital: '21227'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_upper: '21227'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 80_gsm
+taxonomy_4_capital: 80 Gsm
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_upper: 80_GSM
+taxonomy_5: pink_pale_colour
+taxonomy_5_capital: Pink Pale Colour
+taxonomy_5_first_letter: p
+taxonomy_5_first_letter_upper: P
+taxonomy_5_upper: PINK_PALE_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea3699-f81c-83eb-88c3-376d5181d25e

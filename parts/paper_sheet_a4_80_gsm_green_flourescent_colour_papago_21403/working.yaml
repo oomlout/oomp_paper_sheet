@@ -1,0 +1,113 @@
+bip_39_2_word_array:
+- mad
+- immense
+bip_39_2_word_no_space: madimmense
+bip_39_2_word_space: mad immense
+bip_39_2_word_underscore: mad_immense
+bip_39_3_word_array:
+- mad
+- immense
+- aim
+bip_39_3_word_no_space: madimmenseaim
+bip_39_3_word_space: mad immense aim
+bip_39_3_word_underscore: mad_immense_aim
+bip_39_full_array:
+- mad
+- immense
+- aim
+- long
+- protect
+- ancient
+- pretty
+- famous
+- diet
+- dress
+- noodle
+- envelope
+bip_39_full_no_space: madimmenseaimlongprotectancientprettyfamousdietdressnoodleenvelope
+bip_39_full_space: mad immense aim long protect ancient pretty famous diet dress noodle
+    envelope
+bip_39_full_underscore: mad_immense_aim_long_protect_ancient_pretty_famous_diet_dress_noodle_envelope
+directory: parts/paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+generate_stl: false
+id: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+id_no_class: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+id_no_size: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+id_no_type: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+md5: 85ae301541eaca112a8a953da8565825
+md5_10: 85ae301541
+md5_10_upper: 85AE301541
+md5_5: 85ae3
+md5_5_upper: 85AE3
+md5_6: 85ae30
+md5_6_alpha: 57rxs
+md5_6_alpha_upper: 57RXS
+md5_6_upper: 85AE30
+name: Paper Sheet A4 80 Gsm Green Flourescent Colour Papago 21403
+name_no_class: Paper Sheet A4 80 Gsm Green Flourescent Colour Papago 21403
+name_no_size: Paper Sheet A4 80 Gsm Green Flourescent Colour Papago 21403
+name_no_type: Paper Sheet A4 80 Gsm Green Flourescent Colour Papago 21403
+name_proper: Paper Sheet A4 80 Gsm Green Flourescent Colour Papago 21403
+name_space: paper sheet a4 80 gsm green flourescent colour papago 21403
+name_upper: PAPER SHEET A4 80 GSM GREEN FLOURESCENT COLOUR PAPAGO 21403
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 80 gsm green flourescent colour papago
+            21403 make sure to include an item that is identified by the colour included
+            so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: papago
+taxonomy_14_capital: Papago
+taxonomy_14_first_letter: p
+taxonomy_14_first_letter_upper: P
+taxonomy_14_upper: PAPAGO
+taxonomy_15: '21403'
+taxonomy_15_capital: '21403'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_upper: '21403'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 80_gsm
+taxonomy_4_capital: 80 Gsm
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_upper: 80_GSM
+taxonomy_5: green_flourescent_colour
+taxonomy_5_capital: Green Flourescent Colour
+taxonomy_5_first_letter: g
+taxonomy_5_first_letter_upper: G
+taxonomy_5_upper: GREEN_FLOURESCENT_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea2670-a064-83eb-ba4b-25f8682bfe02

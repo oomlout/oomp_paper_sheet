@@ -1,0 +1,117 @@
+bip_39_2_word_array:
+- clever
+- dial
+bip_39_2_word_no_space: cleverdial
+bip_39_2_word_space: clever dial
+bip_39_2_word_underscore: clever_dial
+bip_39_3_word_array:
+- clever
+- dial
+- poverty
+bip_39_3_word_no_space: cleverdialpoverty
+bip_39_3_word_space: clever dial poverty
+bip_39_3_word_underscore: clever_dial_poverty
+bip_39_full_array:
+- clever
+- dial
+- poverty
+- entry
+- glimpse
+- make
+- chat
+- glow
+- name
+- clock
+- cause
+- fall
+bip_39_full_no_space: cleverdialpovertyentryglimpsemakechatglownameclockcausefall
+bip_39_full_space: clever dial poverty entry glimpse make chat glow name clock cause
+    fall
+bip_39_full_underscore: clever_dial_poverty_entry_glimpse_make_chat_glow_name_clock_cause_fall
+directory: parts/paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+generate_stl: false
+id: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+id_no_class: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+id_no_size: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+id_no_type: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+md5: 2a87a2a425d6330d09b31e92c56c9229
+md5_10: 2a87a2a425
+md5_10_upper: 2A87A2A425
+md5_5: 2a87a
+md5_5_upper: 2A87A
+md5_6: 2a87a2
+md5_6_alpha: 1nqn6
+md5_6_alpha_upper: 1NQN6
+md5_6_upper: 2A87A2
+name: Paper Sheet A4 80 Gsm Grey Dark Colour Steel Grey Papago 21220
+name_no_class: Paper Sheet A4 80 Gsm Grey Dark Colour Steel Grey Papago 21220
+name_no_size: Paper Sheet A4 80 Gsm Grey Dark Colour Steel Grey Papago 21220
+name_no_type: Paper Sheet A4 80 Gsm Grey Dark Colour Steel Grey Papago 21220
+name_proper: Paper Sheet A4 80 Gsm Grey Dark Colour Steel Grey Papago 21220
+name_space: paper sheet a4 80 gsm grey dark colour steel grey papago 21220
+name_upper: PAPER SHEET A4 80 GSM GREY DARK COLOUR STEEL GREY PAPAGO 21220
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 80 gsm grey dark colour steel grey
+            papago 21220 make sure to include an item that is identified by the colour
+            included so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomp_key: oomp_paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: steel_grey
+taxonomy_13_capital: Steel Grey
+taxonomy_13_first_letter: s
+taxonomy_13_first_letter_upper: S
+taxonomy_13_upper: STEEL_GREY
+taxonomy_14: papago
+taxonomy_14_capital: Papago
+taxonomy_14_first_letter: p
+taxonomy_14_first_letter_upper: P
+taxonomy_14_upper: PAPAGO
+taxonomy_15: '21220'
+taxonomy_15_capital: '21220'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_upper: '21220'
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_upper: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_upper: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_upper: A4
+taxonomy_4: 80_gsm
+taxonomy_4_capital: 80 Gsm
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_upper: 80_GSM
+taxonomy_5: grey_dark_colour
+taxonomy_5_capital: Grey Dark Colour
+taxonomy_5_first_letter: g
+taxonomy_5_first_letter_upper: G
+taxonomy_5_upper: GREY_DARK_COLOUR
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/69ea28c0-bfdc-83eb-a470-f31e9f25871b
