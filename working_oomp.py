@@ -1,6 +1,7 @@
 import oomp
 import copy
 import oomlout_roboclick
+import oomp_helper
 
 def main(**kwargs):
     load_parts(**kwargs)
@@ -89,6 +90,16 @@ def create_generic(**kwargs):
             actions.append(copy.deepcopy(action))
 
             oomlout_roboclick.add_action(part=part, action_type=action_type, action_name=action_name, actions=actions, file_test=file_test)
+
+            #image chibi
+        test_image_chibi = True
+        if test_image_chibi:
+            content_string = part.get("content_string", "")    
+            count += 1
+            chibi_detail = "make it cute"
+            oomp_helper.add_image_chibi(part=part, count=count, mode_ai_wait=mode_ai_wait, chibi_detail=chibi_detail)       
+
+
 
         #folder_project = "helen_personal_chart_bribe_bank"
 

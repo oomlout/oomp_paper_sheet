@@ -29,7 +29,6 @@ bip_39_full_space: artefact cup sleep observe head bottom swamp session wisdom w
     mango lunch
 bip_39_full_underscore: artefact_cup_sleep_observe_head_bottom_swamp_session_wisdom_wrestle_mango_lunch
 directory: parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
-generate_stl: false
 id: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
 id_no_class: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
 id_no_size: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
@@ -62,11 +61,180 @@ oomlout_ai_roboclick_1:
             included so you know even though the image is black and white
         mode_ai_wait: slow
     file_test: initial_generated_icon.png
+oomlout_ai_roboclick_2:
+    actions:
+    -   command: new_chat
+        description: step_2_create_image_chibi
+    -   command: ai_query
+        delay: '120'
+        mode_ai_wait: slow
+        text: 'This is a context-loading and exploration step for a fun chibi CGI-inspired
+            illustration. Take your time and think expansively before answering. Explore
+            multiple character directions, toy-like proportions, expressive poses,
+            surface treatments, prop ideas, and composition approaches, then explain
+            what will make the final image cutest, clearest, and most polished. The
+            goal here is to develop a premium, lovable, highly readable image direction
+            before the final render is generated.
+
+
+            Creative direction:
+
+            - Invent one central chibi character concept based on the theme, but push
+            beyond generic stock mascot art. The character should feel specific, playful,
+            and emotionally appealing.
+
+            - Favor oversized head proportions, small expressive limbs, simple hands,
+            bright eyes, a sweet face, and an instantly readable silhouette.
+
+            - Aim for a polished CGI or high-end 3D illustration feel: smooth forms,
+            soft rounded edges, tactile materials, subtle reflections, and the charm
+            of a carefully art-directed animated collectible.
+
+            - Supporting props are encouraged when they help the image read faster
+            or add a small story beat, but avoid clutter.
+
+            - Look for ways to make the character feel huggable, friendly, and slightly
+            mischievous in a warm, fun way.
+
+            - Keep the styling cohesive so the face, body, props, clothing, markings,
+            and materials all feel like one intentional design system.
+
+            - Search for the version that feels cutest after simplification rather
+            than the one with the most detail.
+
+            - Favor a centered hero composition that reads well immediately.
+
+
+            Image constraints:
+
+            - Full-color image is allowed and encouraged.
+
+            - Prefer a simple, clean background or soft studio-style setting that
+            keeps the character as the clear focus.
+
+            - Avoid busy scenery, tiny unreadable details, muddy textures, harsh shadows,
+            or photoreal grit.
+
+            - Keep the composition readable at thumbnail size with clear separation
+            between major forms.
+
+            - Favor soft lighting, clean specular highlights, and material contrast
+            that helps the image feel premium without becoming noisy.
+
+            - Avoid creepy facial proportions, aggressive expressions, or overly realistic
+            anatomy.
+
+            - No text unless it is absolutely essential to the design concept.
+
+
+            What to include in your response:
+
+            - Several candidate chibi directions for the theme, with notes on why
+            each could work.
+
+            - Observations about silhouette clarity, proportions, pose readability,
+            color/material opportunities, and overall cuteness.
+
+            - Notes on what details should be simplified, enlarged, grouped, or removed
+            to keep the result strong.
+
+            - Suggestions for props, accessories, clothing cues, or supporting motifs
+            only where they genuinely improve the idea.
+
+            - Observations about what makes the image feel like a polished CGI render
+            rather than a flat illustration.
+
+            - A recommended direction, with an explanation of why it is strongest.
+
+            - One strong final image-generation prompt at the end, ready for later
+            use.
+
+
+            Response style:
+
+            - Explain your reasoning clearly and include all useful detail.
+
+            - Use structure, comparisons, and short sections when that helps clarity.
+
+            - The final prompt should explicitly call for a fun chibi CGI-inspired
+            image with a polished, premium result.
+
+
+            Take this context and research and search and make extra decisions based
+            on your findings tell me all about them!'
+    -   command: ai_query
+        delay: '120'
+        mode_ai_wait: slow
+        text: 'Now use the exploration work to develop the direction for this theme:
+            a fun chibi CGI inspired picture of paper sheet a4 80 gsm blue light colour
+            sky blue papago 21514 make it cute
+
+
+            Take your time and search outward before narrowing down. Explore multiple
+            character interpretations, facial expressions, prop choices, costumes
+            or markings, color families, pose options, and CGI material treatments.
+            Compare what becomes more memorable, cuter, clearer, and more emotionally
+            engaging as the idea develops. Make the character feel more specific and
+            lovable than the theme name alone.
+
+
+            What to do:
+
+            - Explore a healthy range of possible chibi directions, not just the first
+            obvious one.
+
+            - Search for character ideas that feel unique to the theme rather than
+            generic cute branding.
+
+            - Compare different head-to-body ratios, pose choices, facial expressions,
+            and gesture ideas.
+
+            - Compare different prop and accessory choices that reinforce the theme
+            without clutter.
+
+            - Discuss what helps or hurts the silhouette at small size.
+
+            - Surface tradeoffs between charm, clarity, detail, polish, and simplicity.
+
+            - Favor rounded forms, clean separation of shapes, and a pose that feels
+            alive.
+
+            - Favor material ideas that support a premium CGI feel: glossy plastic,
+            satin fabric, rubber accents, soft translucent elements, brushed metal
+            highlights, or similar carefully chosen surfaces where appropriate.
+
+            - Keep the mood joyful, warm, playful, and inviting.
+
+            - Recommend the strongest direction only after the exploration feels well
+            developed.
+
+            - End with one polished final image-generation prompt paragraph for the
+            recommended direction.
+
+
+            Response style:
+
+            - Explain everything that seems useful for the next step.
+
+            - It is good to be expansive here; do not compress the thinking prematurely.
+
+            - Structured notes, comparisons, bullets, and short sections are welcome
+            if they help clarity.
+
+            - The final prompt should explicitly call for a clean, polished CGI-style
+            chibi render with the theme centered clearly.
+
+            '
+    -   command: ai_query
+        delay: '120'
+        mode_ai_wait: slow
+        text: Generate the image take all the time you need
+    -   command: save_image_generated
+        file_name: initial_generated_chibi.png
+        mode_ai_wait: slow
+    -   command: close_tab
+    file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
-run_action: true
-run_oomp: true
-run_oomp_populate: true
-run_scad: true
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -75,41 +243,121 @@ taxonomy_13: sky_blue
 taxonomy_13_capital: Sky Blue
 taxonomy_13_first_letter: s
 taxonomy_13_first_letter_upper: S
+taxonomy_13_length_1: s
+taxonomy_13_length_2: sk
+taxonomy_13_length_3: sky
+taxonomy_13_length_4: sky_
+taxonomy_13_length_5: sky_b
 taxonomy_13_upper: SKY_BLUE
+taxonomy_13_upper_length_1: S
+taxonomy_13_upper_length_2: SK
+taxonomy_13_upper_length_3: SKY
+taxonomy_13_upper_length_4: SKY_
+taxonomy_13_upper_length_5: SKY_B
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
 taxonomy_14_first_letter_upper: P
+taxonomy_14_length_1: p
+taxonomy_14_length_2: pa
+taxonomy_14_length_3: pap
+taxonomy_14_length_4: papa
+taxonomy_14_length_5: papag
 taxonomy_14_upper: PAPAGO
+taxonomy_14_upper_length_1: P
+taxonomy_14_upper_length_2: PA
+taxonomy_14_upper_length_3: PAP
+taxonomy_14_upper_length_4: PAPA
+taxonomy_14_upper_length_5: PAPAG
 taxonomy_15: '21514'
 taxonomy_15_capital: '21514'
 taxonomy_15_first_letter: '2'
 taxonomy_15_first_letter_upper: '2'
+taxonomy_15_length_1: '2'
+taxonomy_15_length_2: '21'
+taxonomy_15_length_3: '215'
+taxonomy_15_length_4: '2151'
+taxonomy_15_length_5: '21514'
 taxonomy_15_upper: '21514'
+taxonomy_15_upper_length_1: '2'
+taxonomy_15_upper_length_2: '21'
+taxonomy_15_upper_length_3: '215'
+taxonomy_15_upper_length_4: '2151'
+taxonomy_15_upper_length_5: '21514'
 taxonomy_1_capital: Paper
 taxonomy_1_first_letter: p
 taxonomy_1_first_letter_upper: P
+taxonomy_1_length_1: p
+taxonomy_1_length_2: pa
+taxonomy_1_length_3: pap
+taxonomy_1_length_4: pape
+taxonomy_1_length_5: paper
 taxonomy_1_upper: PAPER
+taxonomy_1_upper_length_1: P
+taxonomy_1_upper_length_2: PA
+taxonomy_1_upper_length_3: PAP
+taxonomy_1_upper_length_4: PAPE
+taxonomy_1_upper_length_5: PAPER
 taxonomy_2: sheet
 taxonomy_2_capital: Sheet
 taxonomy_2_first_letter: s
 taxonomy_2_first_letter_upper: S
+taxonomy_2_length_1: s
+taxonomy_2_length_2: sh
+taxonomy_2_length_3: she
+taxonomy_2_length_4: shee
+taxonomy_2_length_5: sheet
 taxonomy_2_upper: SHEET
+taxonomy_2_upper_length_1: S
+taxonomy_2_upper_length_2: SH
+taxonomy_2_upper_length_3: SHE
+taxonomy_2_upper_length_4: SHEE
+taxonomy_2_upper_length_5: SHEET
 taxonomy_3: a4
 taxonomy_3_capital: A4
 taxonomy_3_first_letter: a
 taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: a4
+taxonomy_3_length_3: a4
+taxonomy_3_length_4: a4
+taxonomy_3_length_5: a4
 taxonomy_3_upper: A4
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: A4
+taxonomy_3_upper_length_3: A4
+taxonomy_3_upper_length_4: A4
+taxonomy_3_upper_length_5: A4
 taxonomy_4: 80_gsm
 taxonomy_4_capital: 80 Gsm
 taxonomy_4_first_letter: '8'
 taxonomy_4_first_letter_upper: '8'
+taxonomy_4_length_1: '8'
+taxonomy_4_length_2: '80'
+taxonomy_4_length_3: '80_'
+taxonomy_4_length_4: 80_g
+taxonomy_4_length_5: 80_gs
 taxonomy_4_upper: 80_GSM
+taxonomy_4_upper_length_1: '8'
+taxonomy_4_upper_length_2: '80'
+taxonomy_4_upper_length_3: '80_'
+taxonomy_4_upper_length_4: 80_G
+taxonomy_4_upper_length_5: 80_GS
 taxonomy_5: blue_light_colour
 taxonomy_5_capital: Blue Light Colour
 taxonomy_5_first_letter: b
 taxonomy_5_first_letter_upper: B
+taxonomy_5_length_1: b
+taxonomy_5_length_2: bl
+taxonomy_5_length_3: blu
+taxonomy_5_length_4: blue
+taxonomy_5_length_5: blue_
 taxonomy_5_upper: BLUE_LIGHT_COLOUR
+taxonomy_5_upper_length_1: B
+taxonomy_5_upper_length_2: BL
+taxonomy_5_upper_length_3: BLU
+taxonomy_5_upper_length_4: BLUE
+taxonomy_5_upper_length_5: BLUE_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
