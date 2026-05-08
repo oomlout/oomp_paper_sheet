@@ -29,6 +29,7 @@ bip_39_full_space: dream desk movie fiber menu village govern begin inch forum j
     sustain
 bip_39_full_underscore: dream_desk_movie_fiber_menu_village_govern_begin_inch_forum_jump_sustain
 directory: parts/paper_sheet_a4_160_gsm_green_colour_emerald_green_colorit_387_960
+generate_stl: false
 id: paper_sheet_a4_160_gsm_green_colour_emerald_green_colorit_387_960
 id_no_class: paper_sheet_a4_160_gsm_green_colour_emerald_green_colorit_387_960
 id_no_size: paper_sheet_a4_160_gsm_green_colour_emerald_green_colorit_387_960
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_160_gsm_green_colour_emerald_green_colorit_387_960
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea7be9-3d54-83eb-a9d8-658db6e0dd07
+url_chat: https://chatgpt.com/c/69fa4f7b-a01c-838a-9060-db16f572a52b

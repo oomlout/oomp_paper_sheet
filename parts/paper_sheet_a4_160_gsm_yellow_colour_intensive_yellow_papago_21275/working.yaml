@@ -29,6 +29,7 @@ bip_39_full_space: flat number million autumn describe perfect option whale oxyg
     sunset antique glare
 bip_39_full_underscore: flat_number_million_autumn_describe_perfect_option_whale_oxygen_sunset_antique_glare
 directory: parts/paper_sheet_a4_160_gsm_yellow_colour_intensive_yellow_papago_21275
+generate_stl: false
 id: paper_sheet_a4_160_gsm_yellow_colour_intensive_yellow_papago_21275
 id_no_class: paper_sheet_a4_160_gsm_yellow_colour_intensive_yellow_papago_21275
 id_no_size: paper_sheet_a4_160_gsm_yellow_colour_intensive_yellow_papago_21275
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_160_gsm_yellow_colour_intensive_yellow_papago_21275
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea2420-14b8-83eb-92ae-fb67771f2321
+url_chat: https://chatgpt.com/c/69fa6e1a-2f30-8392-8bad-a558268423ac

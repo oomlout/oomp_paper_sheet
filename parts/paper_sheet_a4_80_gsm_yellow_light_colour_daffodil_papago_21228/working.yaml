@@ -29,6 +29,7 @@ bip_39_full_space: yard try salt session alarm egg gas audit minimum spider jung
     relief
 bip_39_full_underscore: yard_try_salt_session_alarm_egg_gas_audit_minimum_spider_jungle_relief
 directory: parts/paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
+generate_stl: false
 id: paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
 id_no_class: paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
 id_no_size: paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea473e-5e3c-83eb-a195-6d607b9f9c78
+url_chat: https://chatgpt.com/c/69fa9834-9220-8390-8a44-5544f8b1b2b7

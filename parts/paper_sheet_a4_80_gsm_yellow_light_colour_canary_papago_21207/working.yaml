@@ -29,6 +29,7 @@ bip_39_full_space: virtual wolf slow north captain end visual remove turtle arre
     advance state
 bip_39_full_underscore: virtual_wolf_slow_north_captain_end_visual_remove_turtle_arrest_advance_state
 directory: parts/paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
+generate_stl: false
 id: paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
 id_no_class: paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
 id_no_size: paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea7e0e-83d8-83eb-b9ca-04a29c774860
+url_chat: https://chatgpt.com/c/69fa93fe-855c-838e-9180-0a0de3e8cd06

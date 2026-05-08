@@ -29,6 +29,7 @@ bip_39_full_space: tent chunk into voice mechanic dream credit loyal deny lens s
     hand
 bip_39_full_underscore: tent_chunk_into_voice_mechanic_dream_credit_loyal_deny_lens_stand_hand
 directory: parts/paper_sheet_80_gsm_green_flourescent_papago_21403
+generate_stl: false
 id: paper_sheet_80_gsm_green_flourescent_papago_21403
 id_no_class: paper_sheet_80_gsm_green_flourescent_papago_21403
 id_no_size: paper_sheet_80_gsm_green_flourescent_papago_21403
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_80_gsm_green_flourescent_papago_21403
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -334,4 +339,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: ''
+url_chat: https://chatgpt.com/c/69fa3cd6-bd60-8391-9039-2d75179b7353

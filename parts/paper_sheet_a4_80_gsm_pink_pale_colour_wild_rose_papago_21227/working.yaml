@@ -29,6 +29,7 @@ bip_39_full_space: rapid idea mention jungle sign lyrics weasel zero mirror topi
     great card
 bip_39_full_underscore: rapid_idea_mention_jungle_sign_lyrics_weasel_zero_mirror_topic_great_card
 directory: parts/paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+generate_stl: false
 id: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
 id_no_class: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
 id_no_size: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea3699-f81c-83eb-88c3-376d5181d25e
+url_chat: https://chatgpt.com/c/69fa8b90-723c-8391-8d87-0a0c87fb137f
