@@ -29,6 +29,7 @@ bip_39_full_space: dad inch online school slush distance life minute rocket burg
     combine damage
 bip_39_full_underscore: dad_inch_online_school_slush_distance_life_minute_rocket_burger_combine_damage
 directory: parts/paper_sheet_a4_100_gsm_white_colour
+generate_stl: false
 id: paper_sheet_a4_100_gsm_white_colour
 id_no_class: paper_sheet_a4_100_gsm_white_colour
 id_no_size: paper_sheet_a4_100_gsm_white_colour
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_100_gsm_white_colour
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -320,4 +325,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: ''
+url_chat: https://chatgpt.com/c/69fa46ef-f424-8396-80fe-e2a9fdc9af67

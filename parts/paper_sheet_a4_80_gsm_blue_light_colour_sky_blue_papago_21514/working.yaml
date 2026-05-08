@@ -29,6 +29,7 @@ bip_39_full_space: artefact cup sleep observe head bottom swamp session wisdom w
     mango lunch
 bip_39_full_underscore: artefact_cup_sleep_observe_head_bottom_swamp_session_wisdom_wrestle_mango_lunch
 directory: parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+generate_stl: false
 id: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
 id_no_class: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
 id_no_size: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea254f-9a00-83eb-ac46-b7831c42cd74
+url_chat: https://chatgpt.com/c/69fa720b-2504-8391-ba15-0178e55a3f5b

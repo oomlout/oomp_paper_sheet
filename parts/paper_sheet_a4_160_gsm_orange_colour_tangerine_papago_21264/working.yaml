@@ -29,6 +29,7 @@ bip_39_full_space: syrup permit leaf goose palace dress sibling camp vital noise
     shoot
 bip_39_full_underscore: syrup_permit_leaf_goose_palace_dress_sibling_camp_vital_noise_access_shoot
 directory: parts/paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+generate_stl: false
 id: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
 id_no_class: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
 id_no_size: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea6d5f-b150-83eb-a1dc-cc2d39f529c5
+url_chat: https://chatgpt.com/c/69fa6139-5cb4-8397-abaa-ddb3c65e81f1

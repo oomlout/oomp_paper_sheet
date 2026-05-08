@@ -29,6 +29,7 @@ bip_39_full_space: clever dial poverty entry glimpse make chat glow name clock c
     fall
 bip_39_full_underscore: clever_dial_poverty_entry_glimpse_make_chat_glow_name_clock_cause_fall
 directory: parts/paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+generate_stl: false
 id: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
 id_no_class: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
 id_no_size: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea28c0-bfdc-83eb-a470-f31e9f25871b
+url_chat: https://chatgpt.com/c/69fa7f00-1d58-838e-a429-f3880e93a78b

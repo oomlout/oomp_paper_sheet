@@ -28,6 +28,7 @@ bip_39_full_no_space: urbanleftroadzerorailtailhopejeweltagtrafficappleday
 bip_39_full_space: urban left road zero rail tail hope jewel tag traffic apple day
 bip_39_full_underscore: urban_left_road_zero_rail_tail_hope_jewel_tag_traffic_apple_day
 directory: parts/paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
+generate_stl: false
 id: paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
 id_no_class: paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
 id_no_size: paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
@@ -234,6 +235,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -361,4 +366,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea7831-dd38-83eb-8655-f0894c006993
+url_chat: https://chatgpt.com/c/69fa69bb-8164-838d-a71f-0e49d14cc893

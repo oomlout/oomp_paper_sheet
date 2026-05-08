@@ -29,6 +29,7 @@ bip_39_full_space: casino favorite celery forum legend glance occur heavy party 
     ceiling cabbage
 bip_39_full_underscore: casino_favorite_celery_forum_legend_glance_occur_heavy_party_pony_ceiling_cabbage
 directory: parts/paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
+generate_stl: false
 id: paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
 id_no_class: paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
 id_no_size: paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea29e1-e1d4-83eb-90a4-8dc31cb219c1
+url_chat: https://chatgpt.com/c/69fa82fa-ee74-8390-82fa-0a8036a36471

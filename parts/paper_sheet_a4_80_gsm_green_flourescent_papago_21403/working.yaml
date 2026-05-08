@@ -29,6 +29,7 @@ bip_39_full_space: taxi love twenty mask ankle update van follow maze evidence p
     disagree
 bip_39_full_underscore: taxi_love_twenty_mask_ankle_update_van_follow_maze_evidence_perfect_disagree
 directory: parts/paper_sheet_a4_80_gsm_green_flourescent_papago_21403
+generate_stl: false
 id: paper_sheet_a4_80_gsm_green_flourescent_papago_21403
 id_no_class: paper_sheet_a4_80_gsm_green_flourescent_papago_21403
 id_no_size: paper_sheet_a4_80_gsm_green_flourescent_papago_21403
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_green_flourescent_papago_21403
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -348,4 +353,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea279f-f238-83eb-86df-9619ad056712
+url_chat: https://chatgpt.com/c/69fa7a83-7a3c-8394-b7b0-9648885d9adc

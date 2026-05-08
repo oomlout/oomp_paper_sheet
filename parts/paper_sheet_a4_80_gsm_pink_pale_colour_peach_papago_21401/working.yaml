@@ -29,6 +29,7 @@ bip_39_full_space: source insane federal undo giraffe error inspire jelly nose m
     thumb upper
 bip_39_full_underscore: source_insane_federal_undo_giraffe_error_inspire_jelly_nose_marriage_thumb_upper
 directory: parts/paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+generate_stl: false
 id: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
 id_no_class: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
 id_no_size: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
@@ -235,6 +236,10 @@ oomlout_ai_roboclick_2:
     -   command: close_tab
     file_test: initial_generated_chibi.png
 oomp_key: oomp_paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
@@ -362,4 +367,4 @@ taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
-url_chat: https://chatgpt.com/c/69ea2b11-4728-83eb-9882-dce6425f2f55
+url_chat: https://chatgpt.com/c/69fa8731-b9d8-8391-ab6f-efa280b028eb
