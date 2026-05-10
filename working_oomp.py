@@ -99,7 +99,15 @@ def create_generic(**kwargs):
             chibi_detail = "make it cute"
             oomp_helper.add_image_chibi(part=part, count=count, mode_ai_wait=mode_ai_wait, chibi_detail=chibi_detail)       
 
-
+        #jinja_template replace
+        if True:
+            templates = []
+            templates.append({"template_folder": "default"})
+            templates.append({"template_folder": "source_file\\template_jinja\\oomp_paper_sheet\\template_jinja_paper_ream_oomlout_297_mm_210_mm", "output_filename": "paper_ream_oomp.svg"})
+            convert_to_pdf = False
+            convert_to_png = False
+            count = oomp_helper.add_jinja_template(part=part, templates=templates, mode_ai_wait=mode_ai_wait, count=count, convert_to_pdf=convert_to_pdf, convert_to_png=convert_to_png)
+        
 
         #folder_project = "helen_personal_chart_bribe_bank"
 
