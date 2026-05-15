@@ -29,7 +29,7 @@ bip_39_full_space: clever dial poverty entry glimpse make chat glow name clock c
     fall
 bip_39_full_underscore: clever_dial_poverty_entry_glimpse_make_chat_glow_name_clock_cause_fall
 directory: parts/paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
 id_no_class: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
 id_no_size: paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
@@ -447,14 +447,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: steel_grey
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21220'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: grey_dark_colour
-            taxonomy_6: ''
+            taxonomy_6: steel_grey
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -907,14 +907,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: steel_grey
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21220'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: grey_dark_colour
-                        taxonomy_6: ''
+                        taxonomy_6: steel_grey
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -927,14 +927,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: steel_grey
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21220'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: grey_dark_colour
-            taxonomy_6: ''
+            taxonomy_6: steel_grey
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -944,25 +944,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_grey_dark_colour_steel_grey_papago_21220
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: steel_grey
-taxonomy_13_capital: Steel Grey
-taxonomy_13_first_letter: s
-taxonomy_13_first_letter_upper: S
-taxonomy_13_length_1: s
-taxonomy_13_length_2: st
-taxonomy_13_length_3: ste
-taxonomy_13_length_4: stee
-taxonomy_13_length_5: steel
-taxonomy_13_upper: STEEL_GREY
-taxonomy_13_upper_length_1: S
-taxonomy_13_upper_length_2: ST
-taxonomy_13_upper_length_3: STE
-taxonomy_13_upper_length_4: STEE
-taxonomy_13_upper_length_5: STEEL
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1067,7 +1057,21 @@ taxonomy_5_upper_length_2: GR
 taxonomy_5_upper_length_3: GRE
 taxonomy_5_upper_length_4: GREY
 taxonomy_5_upper_length_5: GREY_
-taxonomy_6: ''
+taxonomy_6: steel_grey
+taxonomy_6_capital: Steel Grey
+taxonomy_6_first_letter: s
+taxonomy_6_first_letter_upper: S
+taxonomy_6_length_1: s
+taxonomy_6_length_2: st
+taxonomy_6_length_3: ste
+taxonomy_6_length_4: stee
+taxonomy_6_length_5: steel
+taxonomy_6_upper: STEEL_GREY
+taxonomy_6_upper_length_1: S
+taxonomy_6_upper_length_2: ST
+taxonomy_6_upper_length_3: STE
+taxonomy_6_upper_length_4: STEE
+taxonomy_6_upper_length_5: STEEL
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

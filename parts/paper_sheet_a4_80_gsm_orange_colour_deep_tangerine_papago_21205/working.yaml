@@ -29,7 +29,7 @@ bip_39_full_space: casino favorite celery forum legend glance occur heavy party 
     ceiling cabbage
 bip_39_full_underscore: casino_favorite_celery_forum_legend_glance_occur_heavy_party_pony_ceiling_cabbage
 directory: parts/paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
 id_no_class: paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
 id_no_size: paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
@@ -449,14 +449,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: deep_tangerine
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21205'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: orange_colour
-            taxonomy_6: ''
+            taxonomy_6: deep_tangerine
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -911,14 +911,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: deep_tangerine
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21205'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: orange_colour
-                        taxonomy_6: ''
+                        taxonomy_6: deep_tangerine
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -931,14 +931,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: deep_tangerine
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21205'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: orange_colour
-            taxonomy_6: ''
+            taxonomy_6: deep_tangerine
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -948,25 +948,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_orange_colour_deep_tangerine_papago_21205
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: deep_tangerine
-taxonomy_13_capital: Deep Tangerine
-taxonomy_13_first_letter: d
-taxonomy_13_first_letter_upper: D
-taxonomy_13_length_1: d
-taxonomy_13_length_2: de
-taxonomy_13_length_3: dee
-taxonomy_13_length_4: deep
-taxonomy_13_length_5: deep_
-taxonomy_13_upper: DEEP_TANGERINE
-taxonomy_13_upper_length_1: D
-taxonomy_13_upper_length_2: DE
-taxonomy_13_upper_length_3: DEE
-taxonomy_13_upper_length_4: DEEP
-taxonomy_13_upper_length_5: DEEP_
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1071,7 +1061,21 @@ taxonomy_5_upper_length_2: OR
 taxonomy_5_upper_length_3: ORA
 taxonomy_5_upper_length_4: ORAN
 taxonomy_5_upper_length_5: ORANG
-taxonomy_6: ''
+taxonomy_6: deep_tangerine
+taxonomy_6_capital: Deep Tangerine
+taxonomy_6_first_letter: d
+taxonomy_6_first_letter_upper: D
+taxonomy_6_length_1: d
+taxonomy_6_length_2: de
+taxonomy_6_length_3: dee
+taxonomy_6_length_4: deep
+taxonomy_6_length_5: deep_
+taxonomy_6_upper: DEEP_TANGERINE
+taxonomy_6_upper_length_1: D
+taxonomy_6_upper_length_2: DE
+taxonomy_6_upper_length_3: DEE
+taxonomy_6_upper_length_4: DEEP
+taxonomy_6_upper_length_5: DEEP_
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

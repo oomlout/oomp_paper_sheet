@@ -29,7 +29,7 @@ bip_39_full_space: source insane federal undo giraffe error inspire jelly nose m
     thumb upper
 bip_39_full_underscore: source_insane_federal_undo_giraffe_error_inspire_jelly_nose_marriage_thumb_upper
 directory: parts/paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
 id_no_class: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
 id_no_size: paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
@@ -445,14 +445,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: peach
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21401'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: pink_pale_colour
-            taxonomy_6: ''
+            taxonomy_6: peach
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -903,14 +903,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: peach
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21401'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: pink_pale_colour
-                        taxonomy_6: ''
+                        taxonomy_6: peach
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -923,14 +923,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: peach
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21401'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: pink_pale_colour
-            taxonomy_6: ''
+            taxonomy_6: peach
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -940,25 +940,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_pink_pale_colour_peach_papago_21401
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: peach
-taxonomy_13_capital: Peach
-taxonomy_13_first_letter: p
-taxonomy_13_first_letter_upper: P
-taxonomy_13_length_1: p
-taxonomy_13_length_2: pe
-taxonomy_13_length_3: pea
-taxonomy_13_length_4: peac
-taxonomy_13_length_5: peach
-taxonomy_13_upper: PEACH
-taxonomy_13_upper_length_1: P
-taxonomy_13_upper_length_2: PE
-taxonomy_13_upper_length_3: PEA
-taxonomy_13_upper_length_4: PEAC
-taxonomy_13_upper_length_5: PEACH
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1063,7 +1053,21 @@ taxonomy_5_upper_length_2: PI
 taxonomy_5_upper_length_3: PIN
 taxonomy_5_upper_length_4: PINK
 taxonomy_5_upper_length_5: PINK_
-taxonomy_6: ''
+taxonomy_6: peach
+taxonomy_6_capital: Peach
+taxonomy_6_first_letter: p
+taxonomy_6_first_letter_upper: P
+taxonomy_6_length_1: p
+taxonomy_6_length_2: pe
+taxonomy_6_length_3: pea
+taxonomy_6_length_4: peac
+taxonomy_6_length_5: peach
+taxonomy_6_upper: PEACH
+taxonomy_6_upper_length_1: P
+taxonomy_6_upper_length_2: PE
+taxonomy_6_upper_length_3: PEA
+taxonomy_6_upper_length_4: PEAC
+taxonomy_6_upper_length_5: PEACH
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

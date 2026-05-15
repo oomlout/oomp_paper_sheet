@@ -29,7 +29,7 @@ bip_39_full_space: yard try salt session alarm egg gas audit minimum spider jung
     relief
 bip_39_full_underscore: yard_try_salt_session_alarm_egg_gas_audit_minimum_spider_jungle_relief
 directory: parts/paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
 id_no_class: paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
 id_no_size: paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
@@ -449,14 +449,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: daffodil
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21228'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: yellow_light_colour
-            taxonomy_6: ''
+            taxonomy_6: daffodil
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -911,14 +911,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: daffodil
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21228'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: yellow_light_colour
-                        taxonomy_6: ''
+                        taxonomy_6: daffodil
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -931,14 +931,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: daffodil
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21228'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: yellow_light_colour
-            taxonomy_6: ''
+            taxonomy_6: daffodil
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -948,25 +948,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_yellow_light_colour_daffodil_papago_21228
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: daffodil
-taxonomy_13_capital: Daffodil
-taxonomy_13_first_letter: d
-taxonomy_13_first_letter_upper: D
-taxonomy_13_length_1: d
-taxonomy_13_length_2: da
-taxonomy_13_length_3: daf
-taxonomy_13_length_4: daff
-taxonomy_13_length_5: daffo
-taxonomy_13_upper: DAFFODIL
-taxonomy_13_upper_length_1: D
-taxonomy_13_upper_length_2: DA
-taxonomy_13_upper_length_3: DAF
-taxonomy_13_upper_length_4: DAFF
-taxonomy_13_upper_length_5: DAFFO
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1071,7 +1061,21 @@ taxonomy_5_upper_length_2: YE
 taxonomy_5_upper_length_3: YEL
 taxonomy_5_upper_length_4: YELL
 taxonomy_5_upper_length_5: YELLO
-taxonomy_6: ''
+taxonomy_6: daffodil
+taxonomy_6_capital: Daffodil
+taxonomy_6_first_letter: d
+taxonomy_6_first_letter_upper: D
+taxonomy_6_length_1: d
+taxonomy_6_length_2: da
+taxonomy_6_length_3: daf
+taxonomy_6_length_4: daff
+taxonomy_6_length_5: daffo
+taxonomy_6_upper: DAFFODIL
+taxonomy_6_upper_length_1: D
+taxonomy_6_upper_length_2: DA
+taxonomy_6_upper_length_3: DAF
+taxonomy_6_upper_length_4: DAFF
+taxonomy_6_upper_length_5: DAFFO
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

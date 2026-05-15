@@ -28,7 +28,7 @@ bip_39_full_no_space: urbanleftroadzerorailtailhopejeweltagtrafficappleday
 bip_39_full_space: urban left road zero rail tail hope jewel tag traffic apple day
 bip_39_full_underscore: urban_left_road_zero_rail_tail_hope_jewel_tag_traffic_apple_day
 directory: parts/paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
 id_no_class: paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
 id_no_size: paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
@@ -448,14 +448,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: golden_yellow
+            taxonomy_13: ''
             taxonomy_14: colorit
             taxonomy_15: '387_942'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: yellow_colour
-            taxonomy_6: ''
+            taxonomy_6: golden_yellow
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -910,14 +910,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: golden_yellow
+                        taxonomy_13: ''
                         taxonomy_14: colorit
                         taxonomy_15: '387_942'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 160_gsm
                         taxonomy_5: yellow_colour
-                        taxonomy_6: ''
+                        taxonomy_6: golden_yellow
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -930,14 +930,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: golden_yellow
+            taxonomy_13: ''
             taxonomy_14: colorit
             taxonomy_15: '387_942'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: yellow_colour
-            taxonomy_6: ''
+            taxonomy_6: golden_yellow
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -947,25 +947,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_160_gsm_yellow_colour_golden_yellow_colorit_387_942
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: golden_yellow
-taxonomy_13_capital: Golden Yellow
-taxonomy_13_first_letter: g
-taxonomy_13_first_letter_upper: G
-taxonomy_13_length_1: g
-taxonomy_13_length_2: go
-taxonomy_13_length_3: gol
-taxonomy_13_length_4: gold
-taxonomy_13_length_5: golde
-taxonomy_13_upper: GOLDEN_YELLOW
-taxonomy_13_upper_length_1: G
-taxonomy_13_upper_length_2: GO
-taxonomy_13_upper_length_3: GOL
-taxonomy_13_upper_length_4: GOLD
-taxonomy_13_upper_length_5: GOLDE
+taxonomy_13: ''
 taxonomy_14: colorit
 taxonomy_14_capital: Colorit
 taxonomy_14_first_letter: c
@@ -1070,7 +1060,21 @@ taxonomy_5_upper_length_2: YE
 taxonomy_5_upper_length_3: YEL
 taxonomy_5_upper_length_4: YELL
 taxonomy_5_upper_length_5: YELLO
-taxonomy_6: ''
+taxonomy_6: golden_yellow
+taxonomy_6_capital: Golden Yellow
+taxonomy_6_first_letter: g
+taxonomy_6_first_letter_upper: G
+taxonomy_6_length_1: g
+taxonomy_6_length_2: go
+taxonomy_6_length_3: gol
+taxonomy_6_length_4: gold
+taxonomy_6_length_5: golde
+taxonomy_6_upper: GOLDEN_YELLOW
+taxonomy_6_upper_length_1: G
+taxonomy_6_upper_length_2: GO
+taxonomy_6_upper_length_3: GOL
+taxonomy_6_upper_length_4: GOLD
+taxonomy_6_upper_length_5: GOLDE
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

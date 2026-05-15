@@ -29,7 +29,7 @@ bip_39_full_space: artefact cup sleep observe head bottom swamp session wisdom w
     mango lunch
 bip_39_full_underscore: artefact_cup_sleep_observe_head_bottom_swamp_session_wisdom_wrestle_mango_lunch
 directory: parts/paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
 id_no_class: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
 id_no_size: paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
@@ -446,14 +446,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: sky_blue
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21514'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: blue_light_colour
-            taxonomy_6: ''
+            taxonomy_6: sky_blue
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -905,14 +905,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: sky_blue
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21514'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: blue_light_colour
-                        taxonomy_6: ''
+                        taxonomy_6: sky_blue
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -925,14 +925,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: sky_blue
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21514'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: blue_light_colour
-            taxonomy_6: ''
+            taxonomy_6: sky_blue
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -942,25 +942,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_blue_light_colour_sky_blue_papago_21514
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: sky_blue
-taxonomy_13_capital: Sky Blue
-taxonomy_13_first_letter: s
-taxonomy_13_first_letter_upper: S
-taxonomy_13_length_1: s
-taxonomy_13_length_2: sk
-taxonomy_13_length_3: sky
-taxonomy_13_length_4: sky_
-taxonomy_13_length_5: sky_b
-taxonomy_13_upper: SKY_BLUE
-taxonomy_13_upper_length_1: S
-taxonomy_13_upper_length_2: SK
-taxonomy_13_upper_length_3: SKY
-taxonomy_13_upper_length_4: SKY_
-taxonomy_13_upper_length_5: SKY_B
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1065,7 +1055,21 @@ taxonomy_5_upper_length_2: BL
 taxonomy_5_upper_length_3: BLU
 taxonomy_5_upper_length_4: BLUE
 taxonomy_5_upper_length_5: BLUE_
-taxonomy_6: ''
+taxonomy_6: sky_blue
+taxonomy_6_capital: Sky Blue
+taxonomy_6_first_letter: s
+taxonomy_6_first_letter_upper: S
+taxonomy_6_length_1: s
+taxonomy_6_length_2: sk
+taxonomy_6_length_3: sky
+taxonomy_6_length_4: sky_
+taxonomy_6_length_5: sky_b
+taxonomy_6_upper: SKY_BLUE
+taxonomy_6_upper_length_1: S
+taxonomy_6_upper_length_2: SK
+taxonomy_6_upper_length_3: SKY
+taxonomy_6_upper_length_4: SKY_
+taxonomy_6_upper_length_5: SKY_B
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

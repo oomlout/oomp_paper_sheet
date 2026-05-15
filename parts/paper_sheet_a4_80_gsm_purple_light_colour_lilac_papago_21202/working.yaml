@@ -29,7 +29,7 @@ bip_39_full_space: ladder absent lecture gravity labor spike fall disorder error
     face anger
 bip_39_full_underscore: ladder_absent_lecture_gravity_labor_spike_fall_disorder_error_museum_face_anger
 directory: parts/paper_sheet_a4_80_gsm_purple_light_colour_lilac_papago_21202
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_purple_light_colour_lilac_papago_21202
 id_no_class: paper_sheet_a4_80_gsm_purple_light_colour_lilac_papago_21202
 id_no_size: paper_sheet_a4_80_gsm_purple_light_colour_lilac_papago_21202
@@ -445,14 +445,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: lilac
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21202'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: purple_light_colour
-            taxonomy_6: ''
+            taxonomy_6: lilac
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -903,14 +903,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: lilac
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21202'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: purple_light_colour
-                        taxonomy_6: ''
+                        taxonomy_6: lilac
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -923,14 +923,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: lilac
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21202'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: purple_light_colour
-            taxonomy_6: ''
+            taxonomy_6: lilac
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -940,25 +940,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_purple_light_colour_lilac_papago_21202
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: lilac
-taxonomy_13_capital: Lilac
-taxonomy_13_first_letter: l
-taxonomy_13_first_letter_upper: L
-taxonomy_13_length_1: l
-taxonomy_13_length_2: li
-taxonomy_13_length_3: lil
-taxonomy_13_length_4: lila
-taxonomy_13_length_5: lilac
-taxonomy_13_upper: LILAC
-taxonomy_13_upper_length_1: L
-taxonomy_13_upper_length_2: LI
-taxonomy_13_upper_length_3: LIL
-taxonomy_13_upper_length_4: LILA
-taxonomy_13_upper_length_5: LILAC
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1063,7 +1053,21 @@ taxonomy_5_upper_length_2: PU
 taxonomy_5_upper_length_3: PUR
 taxonomy_5_upper_length_4: PURP
 taxonomy_5_upper_length_5: PURPL
-taxonomy_6: ''
+taxonomy_6: lilac
+taxonomy_6_capital: Lilac
+taxonomy_6_first_letter: l
+taxonomy_6_first_letter_upper: L
+taxonomy_6_length_1: l
+taxonomy_6_length_2: li
+taxonomy_6_length_3: lil
+taxonomy_6_length_4: lila
+taxonomy_6_length_5: lilac
+taxonomy_6_upper: LILAC
+taxonomy_6_upper_length_1: L
+taxonomy_6_upper_length_2: LI
+taxonomy_6_upper_length_3: LIL
+taxonomy_6_upper_length_4: LILA
+taxonomy_6_upper_length_5: LILAC
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

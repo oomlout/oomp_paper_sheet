@@ -29,7 +29,7 @@ bip_39_full_space: face mistake vivid proof box stadium daughter number issue oc
     beauty use
 bip_39_full_underscore: face_mistake_vivid_proof_box_stadium_daughter_number_issue_occur_beauty_use
 directory: parts/paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
 id_no_class: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
 id_no_size: paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
@@ -446,14 +446,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: forest_green
+            taxonomy_13: ''
             taxonomy_14: image_coloraction
             taxonomy_15: ''
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: green_colour
-            taxonomy_6: ''
+            taxonomy_6: forest_green
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -906,14 +906,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: forest_green
+                        taxonomy_13: ''
                         taxonomy_14: image_coloraction
                         taxonomy_15: ''
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 160_gsm
                         taxonomy_5: green_colour
-                        taxonomy_6: ''
+                        taxonomy_6: forest_green
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -927,14 +927,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: forest_green
+            taxonomy_13: ''
             taxonomy_14: image_coloraction
             taxonomy_15: ''
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: green_colour
-            taxonomy_6: ''
+            taxonomy_6: forest_green
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -945,25 +945,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_160_gsm_green_colour_forest_green_image_coloraction
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: forest_green
-taxonomy_13_capital: Forest Green
-taxonomy_13_first_letter: f
-taxonomy_13_first_letter_upper: F
-taxonomy_13_length_1: f
-taxonomy_13_length_2: fo
-taxonomy_13_length_3: for
-taxonomy_13_length_4: fore
-taxonomy_13_length_5: fores
-taxonomy_13_upper: FOREST_GREEN
-taxonomy_13_upper_length_1: F
-taxonomy_13_upper_length_2: FO
-taxonomy_13_upper_length_3: FOR
-taxonomy_13_upper_length_4: FORE
-taxonomy_13_upper_length_5: FORES
+taxonomy_13: ''
 taxonomy_14: image_coloraction
 taxonomy_14_capital: Image Coloraction
 taxonomy_14_first_letter: i
@@ -1054,7 +1044,21 @@ taxonomy_5_upper_length_2: GR
 taxonomy_5_upper_length_3: GRE
 taxonomy_5_upper_length_4: GREE
 taxonomy_5_upper_length_5: GREEN
-taxonomy_6: ''
+taxonomy_6: forest_green
+taxonomy_6_capital: Forest Green
+taxonomy_6_first_letter: f
+taxonomy_6_first_letter_upper: F
+taxonomy_6_length_1: f
+taxonomy_6_length_2: fo
+taxonomy_6_length_3: for
+taxonomy_6_length_4: fore
+taxonomy_6_length_5: fores
+taxonomy_6_upper: FOREST_GREEN
+taxonomy_6_upper_length_1: F
+taxonomy_6_upper_length_2: FO
+taxonomy_6_upper_length_3: FOR
+taxonomy_6_upper_length_4: FORE
+taxonomy_6_upper_length_5: FORES
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

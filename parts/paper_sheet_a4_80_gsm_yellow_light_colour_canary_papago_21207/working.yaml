@@ -29,7 +29,7 @@ bip_39_full_space: virtual wolf slow north captain end visual remove turtle arre
     advance state
 bip_39_full_underscore: virtual_wolf_slow_north_captain_end_visual_remove_turtle_arrest_advance_state
 directory: parts/paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
 id_no_class: paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
 id_no_size: paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
@@ -446,14 +446,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: canary
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21207'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: yellow_light_colour
-            taxonomy_6: ''
+            taxonomy_6: canary
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -905,14 +905,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: canary
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21207'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: yellow_light_colour
-                        taxonomy_6: ''
+                        taxonomy_6: canary
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -925,14 +925,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: canary
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21207'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: yellow_light_colour
-            taxonomy_6: ''
+            taxonomy_6: canary
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -942,25 +942,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_yellow_light_colour_canary_papago_21207
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: canary
-taxonomy_13_capital: Canary
-taxonomy_13_first_letter: c
-taxonomy_13_first_letter_upper: C
-taxonomy_13_length_1: c
-taxonomy_13_length_2: ca
-taxonomy_13_length_3: can
-taxonomy_13_length_4: cana
-taxonomy_13_length_5: canar
-taxonomy_13_upper: CANARY
-taxonomy_13_upper_length_1: C
-taxonomy_13_upper_length_2: CA
-taxonomy_13_upper_length_3: CAN
-taxonomy_13_upper_length_4: CANA
-taxonomy_13_upper_length_5: CANAR
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1065,7 +1055,21 @@ taxonomy_5_upper_length_2: YE
 taxonomy_5_upper_length_3: YEL
 taxonomy_5_upper_length_4: YELL
 taxonomy_5_upper_length_5: YELLO
-taxonomy_6: ''
+taxonomy_6: canary
+taxonomy_6_capital: Canary
+taxonomy_6_first_letter: c
+taxonomy_6_first_letter_upper: C
+taxonomy_6_length_1: c
+taxonomy_6_length_2: ca
+taxonomy_6_length_3: can
+taxonomy_6_length_4: cana
+taxonomy_6_length_5: canar
+taxonomy_6_upper: CANARY
+taxonomy_6_upper_length_1: C
+taxonomy_6_upper_length_2: CA
+taxonomy_6_upper_length_3: CAN
+taxonomy_6_upper_length_4: CANA
+taxonomy_6_upper_length_5: CANAR
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

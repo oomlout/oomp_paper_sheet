@@ -29,7 +29,7 @@ bip_39_full_space: syrup permit leaf goose palace dress sibling camp vital noise
     shoot
 bip_39_full_underscore: syrup_permit_leaf_goose_palace_dress_sibling_camp_vital_noise_access_shoot
 directory: parts/paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
 id_no_class: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
 id_no_size: paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
@@ -445,14 +445,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: tangerine
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21264'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: orange_colour
-            taxonomy_6: ''
+            taxonomy_6: tangerine
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -903,14 +903,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: tangerine
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21264'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 160_gsm
                         taxonomy_5: orange_colour
-                        taxonomy_6: ''
+                        taxonomy_6: tangerine
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -923,14 +923,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: tangerine
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21264'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: orange_colour
-            taxonomy_6: ''
+            taxonomy_6: tangerine
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -940,25 +940,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_160_gsm_orange_colour_tangerine_papago_21264
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: tangerine
-taxonomy_13_capital: Tangerine
-taxonomy_13_first_letter: t
-taxonomy_13_first_letter_upper: T
-taxonomy_13_length_1: t
-taxonomy_13_length_2: ta
-taxonomy_13_length_3: tan
-taxonomy_13_length_4: tang
-taxonomy_13_length_5: tange
-taxonomy_13_upper: TANGERINE
-taxonomy_13_upper_length_1: T
-taxonomy_13_upper_length_2: TA
-taxonomy_13_upper_length_3: TAN
-taxonomy_13_upper_length_4: TANG
-taxonomy_13_upper_length_5: TANGE
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1063,7 +1053,21 @@ taxonomy_5_upper_length_2: OR
 taxonomy_5_upper_length_3: ORA
 taxonomy_5_upper_length_4: ORAN
 taxonomy_5_upper_length_5: ORANG
-taxonomy_6: ''
+taxonomy_6: tangerine
+taxonomy_6_capital: Tangerine
+taxonomy_6_first_letter: t
+taxonomy_6_first_letter_upper: T
+taxonomy_6_length_1: t
+taxonomy_6_length_2: ta
+taxonomy_6_length_3: tan
+taxonomy_6_length_4: tang
+taxonomy_6_length_5: tange
+taxonomy_6_upper: TANGERINE
+taxonomy_6_upper_length_1: T
+taxonomy_6_upper_length_2: TA
+taxonomy_6_upper_length_3: TAN
+taxonomy_6_upper_length_4: TANG
+taxonomy_6_upper_length_5: TANGE
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

@@ -29,7 +29,7 @@ bip_39_full_space: mad immense aim long protect ancient pretty famous diet dress
     envelope
 bip_39_full_underscore: mad_immense_aim_long_protect_ancient_pretty_famous_diet_dress_noodle_envelope
 directory: parts/paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
 id_no_class: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
 id_no_size: paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
@@ -940,6 +940,10 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_green_flourescent_colour_papago_21403
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''

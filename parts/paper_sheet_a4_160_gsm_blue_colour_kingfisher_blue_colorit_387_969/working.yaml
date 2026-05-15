@@ -29,7 +29,7 @@ bip_39_full_space: fence twin setup isolate radio online that awful north person
     winner
 bip_39_full_underscore: fence_twin_setup_isolate_radio_online_that_awful_north_person_short_winner
 directory: parts/paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
 id_no_class: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
 id_no_size: paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
@@ -449,14 +449,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: kingfisher_blue
+            taxonomy_13: ''
             taxonomy_14: colorit
             taxonomy_15: '387_969'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: blue_colour
-            taxonomy_6: ''
+            taxonomy_6: kingfisher_blue
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -911,14 +911,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: kingfisher_blue
+                        taxonomy_13: ''
                         taxonomy_14: colorit
                         taxonomy_15: '387_969'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 160_gsm
                         taxonomy_5: blue_colour
-                        taxonomy_6: ''
+                        taxonomy_6: kingfisher_blue
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -931,14 +931,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: kingfisher_blue
+            taxonomy_13: ''
             taxonomy_14: colorit
             taxonomy_15: '387_969'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 160_gsm
             taxonomy_5: blue_colour
-            taxonomy_6: ''
+            taxonomy_6: kingfisher_blue
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -948,25 +948,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_160_gsm_blue_colour_kingfisher_blue_colorit_387_969
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: kingfisher_blue
-taxonomy_13_capital: Kingfisher Blue
-taxonomy_13_first_letter: k
-taxonomy_13_first_letter_upper: K
-taxonomy_13_length_1: k
-taxonomy_13_length_2: ki
-taxonomy_13_length_3: kin
-taxonomy_13_length_4: king
-taxonomy_13_length_5: kingf
-taxonomy_13_upper: KINGFISHER_BLUE
-taxonomy_13_upper_length_1: K
-taxonomy_13_upper_length_2: KI
-taxonomy_13_upper_length_3: KIN
-taxonomy_13_upper_length_4: KING
-taxonomy_13_upper_length_5: KINGF
+taxonomy_13: ''
 taxonomy_14: colorit
 taxonomy_14_capital: Colorit
 taxonomy_14_first_letter: c
@@ -1071,7 +1061,21 @@ taxonomy_5_upper_length_2: BL
 taxonomy_5_upper_length_3: BLU
 taxonomy_5_upper_length_4: BLUE
 taxonomy_5_upper_length_5: BLUE_
-taxonomy_6: ''
+taxonomy_6: kingfisher_blue
+taxonomy_6_capital: Kingfisher Blue
+taxonomy_6_first_letter: k
+taxonomy_6_first_letter_upper: K
+taxonomy_6_length_1: k
+taxonomy_6_length_2: ki
+taxonomy_6_length_3: kin
+taxonomy_6_length_4: king
+taxonomy_6_length_5: kingf
+taxonomy_6_upper: KINGFISHER_BLUE
+taxonomy_6_upper_length_1: K
+taxonomy_6_upper_length_2: KI
+taxonomy_6_upper_length_3: KIN
+taxonomy_6_upper_length_4: KING
+taxonomy_6_upper_length_5: KINGF
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

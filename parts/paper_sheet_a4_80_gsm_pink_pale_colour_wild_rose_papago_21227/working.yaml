@@ -29,7 +29,7 @@ bip_39_full_space: rapid idea mention jungle sign lyrics weasel zero mirror topi
     great card
 bip_39_full_underscore: rapid_idea_mention_jungle_sign_lyrics_weasel_zero_mirror_topic_great_card
 directory: parts/paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
-file_input: ''
+generate_stl: false
 id: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
 id_no_class: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
 id_no_size: paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
@@ -446,14 +446,14 @@ oomlout_ai_roboclick_3:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: wild_rose
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21227'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: pink_pale_colour
-            taxonomy_6: ''
+            taxonomy_6: wild_rose
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -905,14 +905,14 @@ oomlout_ai_roboclick_4:
                         taxonomy_10: ''
                         taxonomy_11: ''
                         taxonomy_12: ''
-                        taxonomy_13: wild_rose
+                        taxonomy_13: ''
                         taxonomy_14: papago
                         taxonomy_15: '21227'
                         taxonomy_2: sheet
                         taxonomy_3: a4
                         taxonomy_4: 80_gsm
                         taxonomy_5: pink_pale_colour
-                        taxonomy_6: ''
+                        taxonomy_6: wild_rose
                         taxonomy_7: ''
                         taxonomy_8: ''
                         taxonomy_9: ''
@@ -925,14 +925,14 @@ oomlout_ai_roboclick_4:
             taxonomy_10: ''
             taxonomy_11: ''
             taxonomy_12: ''
-            taxonomy_13: wild_rose
+            taxonomy_13: ''
             taxonomy_14: papago
             taxonomy_15: '21227'
             taxonomy_2: sheet
             taxonomy_3: a4
             taxonomy_4: 80_gsm
             taxonomy_5: pink_pale_colour
-            taxonomy_6: ''
+            taxonomy_6: wild_rose
             taxonomy_7: ''
             taxonomy_8: ''
             taxonomy_9: ''
@@ -942,25 +942,15 @@ oomlout_ai_roboclick_4:
         search_and_replace: []
     file_test: paper_ream_oomp.pdf
 oomp_key: oomp_paper_sheet_a4_80_gsm_pink_pale_colour_wild_rose_papago_21227
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: wild_rose
-taxonomy_13_capital: Wild Rose
-taxonomy_13_first_letter: w
-taxonomy_13_first_letter_upper: W
-taxonomy_13_length_1: w
-taxonomy_13_length_2: wi
-taxonomy_13_length_3: wil
-taxonomy_13_length_4: wild
-taxonomy_13_length_5: wild_
-taxonomy_13_upper: WILD_ROSE
-taxonomy_13_upper_length_1: W
-taxonomy_13_upper_length_2: WI
-taxonomy_13_upper_length_3: WIL
-taxonomy_13_upper_length_4: WILD
-taxonomy_13_upper_length_5: WILD_
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_14_capital: Papago
 taxonomy_14_first_letter: p
@@ -1065,7 +1055,21 @@ taxonomy_5_upper_length_2: PI
 taxonomy_5_upper_length_3: PIN
 taxonomy_5_upper_length_4: PINK
 taxonomy_5_upper_length_5: PINK_
-taxonomy_6: ''
+taxonomy_6: wild_rose
+taxonomy_6_capital: Wild Rose
+taxonomy_6_first_letter: w
+taxonomy_6_first_letter_upper: W
+taxonomy_6_length_1: w
+taxonomy_6_length_2: wi
+taxonomy_6_length_3: wil
+taxonomy_6_length_4: wild
+taxonomy_6_length_5: wild_
+taxonomy_6_upper: WILD_ROSE
+taxonomy_6_upper_length_1: W
+taxonomy_6_upper_length_2: WI
+taxonomy_6_upper_length_3: WIL
+taxonomy_6_upper_length_4: WILD
+taxonomy_6_upper_length_5: WILD_
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

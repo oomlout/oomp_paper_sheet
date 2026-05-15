@@ -1,0 +1,1082 @@
+bip_39_2_word_array:
+- nephew
+- hire
+bip_39_2_word_no_space: nephewhire
+bip_39_2_word_space: nephew hire
+bip_39_2_word_underscore: nephew_hire
+bip_39_3_word_array:
+- nephew
+- hire
+- alone
+bip_39_3_word_no_space: nephewhirealone
+bip_39_3_word_space: nephew hire alone
+bip_39_3_word_underscore: nephew_hire_alone
+bip_39_full_array:
+- nephew
+- hire
+- alone
+- reject
+- melt
+- crouch
+- army
+- notable
+- burden
+- used
+- hint
+- interest
+bip_39_full_no_space: nephewhirealonerejectmeltcroucharmynotableburdenusedhintinterest
+bip_39_full_space: nephew hire alone reject melt crouch army notable burden used hint
+    interest
+bip_39_full_underscore: nephew_hire_alone_reject_melt_crouch_army_notable_burden_used_hint_interest
+directory: parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+generate_stl: false
+id: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+id_no_class: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+id_no_size: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+id_no_type: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+md5: 944d801bda78aa684304b41e9df9af3a
+md5_10: 944d801bda
+md5_10_upper: 944D801BDA
+md5_5: 944d8
+md5_5_upper: 944D8
+md5_6: 944d80
+md5_6_alpha: 5sbcw
+md5_6_alpha_upper: 5SBCW
+md5_6_upper: 944D80
+name: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_no_class: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_no_size: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_no_type: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_space: paper sheet a4 100 gsm white colour glossy finish textured watermarked
+name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED WATERMARKED
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: ai_skill_image_laser_cut_logo_full
+        file_destination: initial_generated_icon.png
+        image_detail: an image of paper sheet a4 100 gsm white colour glossy finish
+            textured watermarked make sure to include an item that is identified by
+            the colour included so you know even though the image is black and white
+        mode_ai_wait: slow
+    file_test: initial_generated_icon.png
+oomlout_ai_roboclick_2:
+    actions:
+    -   command: new_chat
+        description: step_2_create_image_chibi
+    -   command: ai_query
+        delay: '120'
+        mode_ai_wait: slow
+        text: 'This is a context-loading and exploration step for a fun chibi CGI-inspired
+            illustration. Take your time and think expansively before answering. Explore
+            multiple character directions, toy-like proportions, expressive poses,
+            surface treatments, prop ideas, and composition approaches, then explain
+            what will make the final image cutest, clearest, and most polished. The
+            goal here is to develop a premium, lovable, highly readable image direction
+            before the final render is generated.
+
+
+            Creative direction:
+
+            - Invent one central chibi character concept based on the theme, but push
+            beyond generic stock mascot art. The character should feel specific, playful,
+            and emotionally appealing.
+
+            - Favor oversized head proportions, small expressive limbs, simple hands,
+            bright eyes, a sweet face, and an instantly readable silhouette.
+
+            - Aim for a polished CGI or high-end 3D illustration feel: smooth forms,
+            soft rounded edges, tactile materials, subtle reflections, and the charm
+            of a carefully art-directed animated collectible.
+
+            - Supporting props are encouraged when they help the image read faster
+            or add a small story beat, but avoid clutter.
+
+            - Look for ways to make the character feel huggable, friendly, and slightly
+            mischievous in a warm, fun way.
+
+            - Keep the styling cohesive so the face, body, props, clothing, markings,
+            and materials all feel like one intentional design system.
+
+            - Search for the version that feels cutest after simplification rather
+            than the one with the most detail.
+
+            - Favor a centered hero composition that reads well immediately.
+
+
+            Image constraints:
+
+            - Full-color image is allowed and encouraged.
+
+            - Prefer a simple, clean background or soft studio-style setting that
+            keeps the character as the clear focus.
+
+            - Avoid busy scenery, tiny unreadable details, muddy textures, harsh shadows,
+            or photoreal grit.
+
+            - Keep the composition readable at thumbnail size with clear separation
+            between major forms.
+
+            - Favor soft lighting, clean specular highlights, and material contrast
+            that helps the image feel premium without becoming noisy.
+
+            - Avoid creepy facial proportions, aggressive expressions, or overly realistic
+            anatomy.
+
+            - No text unless it is absolutely essential to the design concept.
+
+
+            What to include in your response:
+
+            - Several candidate chibi directions for the theme, with notes on why
+            each could work.
+
+            - Observations about silhouette clarity, proportions, pose readability,
+            color/material opportunities, and overall cuteness.
+
+            - Notes on what details should be simplified, enlarged, grouped, or removed
+            to keep the result strong.
+
+            - Suggestions for props, accessories, clothing cues, or supporting motifs
+            only where they genuinely improve the idea.
+
+            - Observations about what makes the image feel like a polished CGI render
+            rather than a flat illustration.
+
+            - A recommended direction, with an explanation of why it is strongest.
+
+            - One strong final image-generation prompt at the end, ready for later
+            use.
+
+
+            Response style:
+
+            - Explain your reasoning clearly and include all useful detail.
+
+            - Use structure, comparisons, and short sections when that helps clarity.
+
+            - The final prompt should explicitly call for a fun chibi CGI-inspired
+            image with a polished, premium result.
+
+
+            Take this context and research and search and make extra decisions based
+            on your findings tell me all about them!'
+    -   command: ai_query
+        delay: '120'
+        mode_ai_wait: slow
+        text: 'Now use the exploration work to develop the direction for this theme:
+            a fun chibi CGI inspired picture of paper sheet a4 100 gsm white colour
+            glossy finish textured watermarked make it cute
+
+
+            Take your time and search outward before narrowing down. Explore multiple
+            character interpretations, facial expressions, prop choices, costumes
+            or markings, color families, pose options, and CGI material treatments.
+            Compare what becomes more memorable, cuter, clearer, and more emotionally
+            engaging as the idea develops. Make the character feel more specific and
+            lovable than the theme name alone.
+
+
+            What to do:
+
+            - Explore a healthy range of possible chibi directions, not just the first
+            obvious one.
+
+            - Search for character ideas that feel unique to the theme rather than
+            generic cute branding.
+
+            - Compare different head-to-body ratios, pose choices, facial expressions,
+            and gesture ideas.
+
+            - Compare different prop and accessory choices that reinforce the theme
+            without clutter.
+
+            - Discuss what helps or hurts the silhouette at small size.
+
+            - Surface tradeoffs between charm, clarity, detail, polish, and simplicity.
+
+            - Favor rounded forms, clean separation of shapes, and a pose that feels
+            alive.
+
+            - Favor material ideas that support a premium CGI feel: glossy plastic,
+            satin fabric, rubber accents, soft translucent elements, brushed metal
+            highlights, or similar carefully chosen surfaces where appropriate.
+
+            - Keep the mood joyful, warm, playful, and inviting.
+
+            - Recommend the strongest direction only after the exploration feels well
+            developed.
+
+            - End with one polished final image-generation prompt paragraph for the
+            recommended direction.
+
+
+            Response style:
+
+            - Explain everything that seems useful for the next step.
+
+            - It is good to be expansive here; do not compress the thinking prematurely.
+
+            - Structured notes, comparisons, bullets, and short sections are welcome
+            if they help clarity.
+
+            - The final prompt should explicitly call for a clean, polished CGI-style
+            chibi render with the theme centered clearly.
+
+            '
+    -   command: ai_query
+        delay: '120'
+        mode_ai_wait: slow
+        text: Generate the image take all the time you need
+    -   command: save_image_generated
+        file_name: initial_generated_chibi.png
+        mode_ai_wait: slow
+    -   command: close_tab
+    file_test: initial_generated_chibi.png
+oomlout_ai_roboclick_3:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured
+                Watermarked
+            name_space: paper sheet a4 100 gsm white colour glossy finish textured
+                watermarked
+            name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED
+                WATERMARKED
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: ai_skill_image_laser_cut_logo_full
+                    file_destination: initial_generated_icon.png
+                    image_detail: an image of paper sheet a4 100 gsm white colour
+                        glossy finish textured watermarked make sure to include an
+                        item that is identified by the colour included so you know
+                        even though the image is black and white
+                    mode_ai_wait: slow
+                file_test: initial_generated_icon.png
+            oomlout_ai_roboclick_2:
+                actions:
+                -   command: new_chat
+                    description: step_2_create_image_chibi
+                -   command: ai_query
+                    delay: '120'
+                    mode_ai_wait: slow
+                    text: 'This is a context-loading and exploration step for a fun
+                        chibi CGI-inspired illustration. Take your time and think
+                        expansively before answering. Explore multiple character directions,
+                        toy-like proportions, expressive poses, surface treatments,
+                        prop ideas, and composition approaches, then explain what
+                        will make the final image cutest, clearest, and most polished.
+                        The goal here is to develop a premium, lovable, highly readable
+                        image direction before the final render is generated.
+
+
+                        Creative direction:
+
+                        - Invent one central chibi character concept based on the
+                        theme, but push beyond generic stock mascot art. The character
+                        should feel specific, playful, and emotionally appealing.
+
+                        - Favor oversized head proportions, small expressive limbs,
+                        simple hands, bright eyes, a sweet face, and an instantly
+                        readable silhouette.
+
+                        - Aim for a polished CGI or high-end 3D illustration feel:
+                        smooth forms, soft rounded edges, tactile materials, subtle
+                        reflections, and the charm of a carefully art-directed animated
+                        collectible.
+
+                        - Supporting props are encouraged when they help the image
+                        read faster or add a small story beat, but avoid clutter.
+
+                        - Look for ways to make the character feel huggable, friendly,
+                        and slightly mischievous in a warm, fun way.
+
+                        - Keep the styling cohesive so the face, body, props, clothing,
+                        markings, and materials all feel like one intentional design
+                        system.
+
+                        - Search for the version that feels cutest after simplification
+                        rather than the one with the most detail.
+
+                        - Favor a centered hero composition that reads well immediately.
+
+
+                        Image constraints:
+
+                        - Full-color image is allowed and encouraged.
+
+                        - Prefer a simple, clean background or soft studio-style setting
+                        that keeps the character as the clear focus.
+
+                        - Avoid busy scenery, tiny unreadable details, muddy textures,
+                        harsh shadows, or photoreal grit.
+
+                        - Keep the composition readable at thumbnail size with clear
+                        separation between major forms.
+
+                        - Favor soft lighting, clean specular highlights, and material
+                        contrast that helps the image feel premium without becoming
+                        noisy.
+
+                        - Avoid creepy facial proportions, aggressive expressions,
+                        or overly realistic anatomy.
+
+                        - No text unless it is absolutely essential to the design
+                        concept.
+
+
+                        What to include in your response:
+
+                        - Several candidate chibi directions for the theme, with notes
+                        on why each could work.
+
+                        - Observations about silhouette clarity, proportions, pose
+                        readability, color/material opportunities, and overall cuteness.
+
+                        - Notes on what details should be simplified, enlarged, grouped,
+                        or removed to keep the result strong.
+
+                        - Suggestions for props, accessories, clothing cues, or supporting
+                        motifs only where they genuinely improve the idea.
+
+                        - Observations about what makes the image feel like a polished
+                        CGI render rather than a flat illustration.
+
+                        - A recommended direction, with an explanation of why it is
+                        strongest.
+
+                        - One strong final image-generation prompt at the end, ready
+                        for later use.
+
+
+                        Response style:
+
+                        - Explain your reasoning clearly and include all useful detail.
+
+                        - Use structure, comparisons, and short sections when that
+                        helps clarity.
+
+                        - The final prompt should explicitly call for a fun chibi
+                        CGI-inspired image with a polished, premium result.
+
+
+                        Take this context and research and search and make extra decisions
+                        based on your findings tell me all about them!'
+                -   command: ai_query
+                    delay: '120'
+                    mode_ai_wait: slow
+                    text: 'Now use the exploration work to develop the direction for
+                        this theme: a fun chibi CGI inspired picture of paper sheet
+                        a4 100 gsm white colour glossy finish textured watermarked
+                        make it cute
+
+
+                        Take your time and search outward before narrowing down. Explore
+                        multiple character interpretations, facial expressions, prop
+                        choices, costumes or markings, color families, pose options,
+                        and CGI material treatments. Compare what becomes more memorable,
+                        cuter, clearer, and more emotionally engaging as the idea
+                        develops. Make the character feel more specific and lovable
+                        than the theme name alone.
+
+
+                        What to do:
+
+                        - Explore a healthy range of possible chibi directions, not
+                        just the first obvious one.
+
+                        - Search for character ideas that feel unique to the theme
+                        rather than generic cute branding.
+
+                        - Compare different head-to-body ratios, pose choices, facial
+                        expressions, and gesture ideas.
+
+                        - Compare different prop and accessory choices that reinforce
+                        the theme without clutter.
+
+                        - Discuss what helps or hurts the silhouette at small size.
+
+                        - Surface tradeoffs between charm, clarity, detail, polish,
+                        and simplicity.
+
+                        - Favor rounded forms, clean separation of shapes, and a pose
+                        that feels alive.
+
+                        - Favor material ideas that support a premium CGI feel: glossy
+                        plastic, satin fabric, rubber accents, soft translucent elements,
+                        brushed metal highlights, or similar carefully chosen surfaces
+                        where appropriate.
+
+                        - Keep the mood joyful, warm, playful, and inviting.
+
+                        - Recommend the strongest direction only after the exploration
+                        feels well developed.
+
+                        - End with one polished final image-generation prompt paragraph
+                        for the recommended direction.
+
+
+                        Response style:
+
+                        - Explain everything that seems useful for the next step.
+
+                        - It is good to be expansive here; do not compress the thinking
+                        prematurely.
+
+                        - Structured notes, comparisons, bullets, and short sections
+                        are welcome if they help clarity.
+
+                        - The final prompt should explicitly call for a clean, polished
+                        CGI-style chibi render with the theme centered clearly.
+
+                        '
+                -   command: ai_query
+                    delay: '120'
+                    mode_ai_wait: slow
+                    text: Generate the image take all the time you need
+                -   command: save_image_generated
+                    file_name: initial_generated_chibi.png
+                    mode_ai_wait: slow
+                -   command: close_tab
+                file_test: initial_generated_chibi.png
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 100_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: textured
+            taxonomy_8: watermarked
+            taxonomy_9: ''
+            url_chat: https://chatgpt.com/c/6a00c5ab-2158-83eb-b62d-285ca22b647a
+        file_output: label_oomp.svg
+        file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_oomp.pdf
+oomlout_ai_roboclick_4:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured
+                Watermarked
+            name_space: paper sheet a4 100 gsm white colour glossy finish textured
+                watermarked
+            name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED
+                WATERMARKED
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: ai_skill_image_laser_cut_logo_full
+                    file_destination: initial_generated_icon.png
+                    image_detail: an image of paper sheet a4 100 gsm white colour
+                        glossy finish textured watermarked make sure to include an
+                        item that is identified by the colour included so you know
+                        even though the image is black and white
+                    mode_ai_wait: slow
+                file_test: initial_generated_icon.png
+            oomlout_ai_roboclick_2:
+                actions:
+                -   command: new_chat
+                    description: step_2_create_image_chibi
+                -   command: ai_query
+                    delay: '120'
+                    mode_ai_wait: slow
+                    text: 'This is a context-loading and exploration step for a fun
+                        chibi CGI-inspired illustration. Take your time and think
+                        expansively before answering. Explore multiple character directions,
+                        toy-like proportions, expressive poses, surface treatments,
+                        prop ideas, and composition approaches, then explain what
+                        will make the final image cutest, clearest, and most polished.
+                        The goal here is to develop a premium, lovable, highly readable
+                        image direction before the final render is generated.
+
+
+                        Creative direction:
+
+                        - Invent one central chibi character concept based on the
+                        theme, but push beyond generic stock mascot art. The character
+                        should feel specific, playful, and emotionally appealing.
+
+                        - Favor oversized head proportions, small expressive limbs,
+                        simple hands, bright eyes, a sweet face, and an instantly
+                        readable silhouette.
+
+                        - Aim for a polished CGI or high-end 3D illustration feel:
+                        smooth forms, soft rounded edges, tactile materials, subtle
+                        reflections, and the charm of a carefully art-directed animated
+                        collectible.
+
+                        - Supporting props are encouraged when they help the image
+                        read faster or add a small story beat, but avoid clutter.
+
+                        - Look for ways to make the character feel huggable, friendly,
+                        and slightly mischievous in a warm, fun way.
+
+                        - Keep the styling cohesive so the face, body, props, clothing,
+                        markings, and materials all feel like one intentional design
+                        system.
+
+                        - Search for the version that feels cutest after simplification
+                        rather than the one with the most detail.
+
+                        - Favor a centered hero composition that reads well immediately.
+
+
+                        Image constraints:
+
+                        - Full-color image is allowed and encouraged.
+
+                        - Prefer a simple, clean background or soft studio-style setting
+                        that keeps the character as the clear focus.
+
+                        - Avoid busy scenery, tiny unreadable details, muddy textures,
+                        harsh shadows, or photoreal grit.
+
+                        - Keep the composition readable at thumbnail size with clear
+                        separation between major forms.
+
+                        - Favor soft lighting, clean specular highlights, and material
+                        contrast that helps the image feel premium without becoming
+                        noisy.
+
+                        - Avoid creepy facial proportions, aggressive expressions,
+                        or overly realistic anatomy.
+
+                        - No text unless it is absolutely essential to the design
+                        concept.
+
+
+                        What to include in your response:
+
+                        - Several candidate chibi directions for the theme, with notes
+                        on why each could work.
+
+                        - Observations about silhouette clarity, proportions, pose
+                        readability, color/material opportunities, and overall cuteness.
+
+                        - Notes on what details should be simplified, enlarged, grouped,
+                        or removed to keep the result strong.
+
+                        - Suggestions for props, accessories, clothing cues, or supporting
+                        motifs only where they genuinely improve the idea.
+
+                        - Observations about what makes the image feel like a polished
+                        CGI render rather than a flat illustration.
+
+                        - A recommended direction, with an explanation of why it is
+                        strongest.
+
+                        - One strong final image-generation prompt at the end, ready
+                        for later use.
+
+
+                        Response style:
+
+                        - Explain your reasoning clearly and include all useful detail.
+
+                        - Use structure, comparisons, and short sections when that
+                        helps clarity.
+
+                        - The final prompt should explicitly call for a fun chibi
+                        CGI-inspired image with a polished, premium result.
+
+
+                        Take this context and research and search and make extra decisions
+                        based on your findings tell me all about them!'
+                -   command: ai_query
+                    delay: '120'
+                    mode_ai_wait: slow
+                    text: 'Now use the exploration work to develop the direction for
+                        this theme: a fun chibi CGI inspired picture of paper sheet
+                        a4 100 gsm white colour glossy finish textured watermarked
+                        make it cute
+
+
+                        Take your time and search outward before narrowing down. Explore
+                        multiple character interpretations, facial expressions, prop
+                        choices, costumes or markings, color families, pose options,
+                        and CGI material treatments. Compare what becomes more memorable,
+                        cuter, clearer, and more emotionally engaging as the idea
+                        develops. Make the character feel more specific and lovable
+                        than the theme name alone.
+
+
+                        What to do:
+
+                        - Explore a healthy range of possible chibi directions, not
+                        just the first obvious one.
+
+                        - Search for character ideas that feel unique to the theme
+                        rather than generic cute branding.
+
+                        - Compare different head-to-body ratios, pose choices, facial
+                        expressions, and gesture ideas.
+
+                        - Compare different prop and accessory choices that reinforce
+                        the theme without clutter.
+
+                        - Discuss what helps or hurts the silhouette at small size.
+
+                        - Surface tradeoffs between charm, clarity, detail, polish,
+                        and simplicity.
+
+                        - Favor rounded forms, clean separation of shapes, and a pose
+                        that feels alive.
+
+                        - Favor material ideas that support a premium CGI feel: glossy
+                        plastic, satin fabric, rubber accents, soft translucent elements,
+                        brushed metal highlights, or similar carefully chosen surfaces
+                        where appropriate.
+
+                        - Keep the mood joyful, warm, playful, and inviting.
+
+                        - Recommend the strongest direction only after the exploration
+                        feels well developed.
+
+                        - End with one polished final image-generation prompt paragraph
+                        for the recommended direction.
+
+
+                        Response style:
+
+                        - Explain everything that seems useful for the next step.
+
+                        - It is good to be expansive here; do not compress the thinking
+                        prematurely.
+
+                        - Structured notes, comparisons, bullets, and short sections
+                        are welcome if they help clarity.
+
+                        - The final prompt should explicitly call for a clean, polished
+                        CGI-style chibi render with the theme centered clearly.
+
+                        '
+                -   command: ai_query
+                    delay: '120'
+                    mode_ai_wait: slow
+                    text: Generate the image take all the time you need
+                -   command: save_image_generated
+                    file_name: initial_generated_chibi.png
+                    mode_ai_wait: slow
+                -   command: close_tab
+                file_test: initial_generated_chibi.png
+            oomlout_ai_roboclick_3:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish
+                            Textured Watermarked
+                        name_space: paper sheet a4 100 gsm white colour glossy finish
+                            textured watermarked
+                        name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH
+                            TEXTURED WATERMARKED
+                        oomlout_ai_roboclick_1:
+                            actions:
+                            -   command: ai_skill_image_laser_cut_logo_full
+                                file_destination: initial_generated_icon.png
+                                image_detail: an image of paper sheet a4 100 gsm white
+                                    colour glossy finish textured watermarked make
+                                    sure to include an item that is identified by
+                                    the colour included so you know even though the
+                                    image is black and white
+                                mode_ai_wait: slow
+                            file_test: initial_generated_icon.png
+                        oomlout_ai_roboclick_2:
+                            actions:
+                            -   command: new_chat
+                                description: step_2_create_image_chibi
+                            -   command: ai_query
+                                delay: '120'
+                                mode_ai_wait: slow
+                                text: 'This is a context-loading and exploration step
+                                    for a fun chibi CGI-inspired illustration. Take
+                                    your time and think expansively before answering.
+                                    Explore multiple character directions, toy-like
+                                    proportions, expressive poses, surface treatments,
+                                    prop ideas, and composition approaches, then explain
+                                    what will make the final image cutest, clearest,
+                                    and most polished. The goal here is to develop
+                                    a premium, lovable, highly readable image direction
+                                    before the final render is generated.
+
+
+                                    Creative direction:
+
+                                    - Invent one central chibi character concept based
+                                    on the theme, but push beyond generic stock mascot
+                                    art. The character should feel specific, playful,
+                                    and emotionally appealing.
+
+                                    - Favor oversized head proportions, small expressive
+                                    limbs, simple hands, bright eyes, a sweet face,
+                                    and an instantly readable silhouette.
+
+                                    - Aim for a polished CGI or high-end 3D illustration
+                                    feel: smooth forms, soft rounded edges, tactile
+                                    materials, subtle reflections, and the charm of
+                                    a carefully art-directed animated collectible.
+
+                                    - Supporting props are encouraged when they help
+                                    the image read faster or add a small story beat,
+                                    but avoid clutter.
+
+                                    - Look for ways to make the character feel huggable,
+                                    friendly, and slightly mischievous in a warm,
+                                    fun way.
+
+                                    - Keep the styling cohesive so the face, body,
+                                    props, clothing, markings, and materials all feel
+                                    like one intentional design system.
+
+                                    - Search for the version that feels cutest after
+                                    simplification rather than the one with the most
+                                    detail.
+
+                                    - Favor a centered hero composition that reads
+                                    well immediately.
+
+
+                                    Image constraints:
+
+                                    - Full-color image is allowed and encouraged.
+
+                                    - Prefer a simple, clean background or soft studio-style
+                                    setting that keeps the character as the clear
+                                    focus.
+
+                                    - Avoid busy scenery, tiny unreadable details,
+                                    muddy textures, harsh shadows, or photoreal grit.
+
+                                    - Keep the composition readable at thumbnail size
+                                    with clear separation between major forms.
+
+                                    - Favor soft lighting, clean specular highlights,
+                                    and material contrast that helps the image feel
+                                    premium without becoming noisy.
+
+                                    - Avoid creepy facial proportions, aggressive
+                                    expressions, or overly realistic anatomy.
+
+                                    - No text unless it is absolutely essential to
+                                    the design concept.
+
+
+                                    What to include in your response:
+
+                                    - Several candidate chibi directions for the theme,
+                                    with notes on why each could work.
+
+                                    - Observations about silhouette clarity, proportions,
+                                    pose readability, color/material opportunities,
+                                    and overall cuteness.
+
+                                    - Notes on what details should be simplified,
+                                    enlarged, grouped, or removed to keep the result
+                                    strong.
+
+                                    - Suggestions for props, accessories, clothing
+                                    cues, or supporting motifs only where they genuinely
+                                    improve the idea.
+
+                                    - Observations about what makes the image feel
+                                    like a polished CGI render rather than a flat
+                                    illustration.
+
+                                    - A recommended direction, with an explanation
+                                    of why it is strongest.
+
+                                    - One strong final image-generation prompt at
+                                    the end, ready for later use.
+
+
+                                    Response style:
+
+                                    - Explain your reasoning clearly and include all
+                                    useful detail.
+
+                                    - Use structure, comparisons, and short sections
+                                    when that helps clarity.
+
+                                    - The final prompt should explicitly call for
+                                    a fun chibi CGI-inspired image with a polished,
+                                    premium result.
+
+
+                                    Take this context and research and search and
+                                    make extra decisions based on your findings tell
+                                    me all about them!'
+                            -   command: ai_query
+                                delay: '120'
+                                mode_ai_wait: slow
+                                text: 'Now use the exploration work to develop the
+                                    direction for this theme: a fun chibi CGI inspired
+                                    picture of paper sheet a4 100 gsm white colour
+                                    glossy finish textured watermarked make it cute
+
+
+                                    Take your time and search outward before narrowing
+                                    down. Explore multiple character interpretations,
+                                    facial expressions, prop choices, costumes or
+                                    markings, color families, pose options, and CGI
+                                    material treatments. Compare what becomes more
+                                    memorable, cuter, clearer, and more emotionally
+                                    engaging as the idea develops. Make the character
+                                    feel more specific and lovable than the theme
+                                    name alone.
+
+
+                                    What to do:
+
+                                    - Explore a healthy range of possible chibi directions,
+                                    not just the first obvious one.
+
+                                    - Search for character ideas that feel unique
+                                    to the theme rather than generic cute branding.
+
+                                    - Compare different head-to-body ratios, pose
+                                    choices, facial expressions, and gesture ideas.
+
+                                    - Compare different prop and accessory choices
+                                    that reinforce the theme without clutter.
+
+                                    - Discuss what helps or hurts the silhouette at
+                                    small size.
+
+                                    - Surface tradeoffs between charm, clarity, detail,
+                                    polish, and simplicity.
+
+                                    - Favor rounded forms, clean separation of shapes,
+                                    and a pose that feels alive.
+
+                                    - Favor material ideas that support a premium
+                                    CGI feel: glossy plastic, satin fabric, rubber
+                                    accents, soft translucent elements, brushed metal
+                                    highlights, or similar carefully chosen surfaces
+                                    where appropriate.
+
+                                    - Keep the mood joyful, warm, playful, and inviting.
+
+                                    - Recommend the strongest direction only after
+                                    the exploration feels well developed.
+
+                                    - End with one polished final image-generation
+                                    prompt paragraph for the recommended direction.
+
+
+                                    Response style:
+
+                                    - Explain everything that seems useful for the
+                                    next step.
+
+                                    - It is good to be expansive here; do not compress
+                                    the thinking prematurely.
+
+                                    - Structured notes, comparisons, bullets, and
+                                    short sections are welcome if they help clarity.
+
+                                    - The final prompt should explicitly call for
+                                    a clean, polished CGI-style chibi render with
+                                    the theme centered clearly.
+
+                                    '
+                            -   command: ai_query
+                                delay: '120'
+                                mode_ai_wait: slow
+                                text: Generate the image take all the time you need
+                            -   command: save_image_generated
+                                file_name: initial_generated_chibi.png
+                                mode_ai_wait: slow
+                            -   command: close_tab
+                            file_test: initial_generated_chibi.png
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 100_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: textured
+                        taxonomy_8: watermarked
+                        taxonomy_9: ''
+                        url_chat: https://chatgpt.com/c/6a00c5ab-2158-83eb-b62d-285ca22b647a
+                    file_output: label_oomp.svg
+                    file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: label_oomp.pdf
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 100_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: textured
+            taxonomy_8: watermarked
+            taxonomy_9: ''
+            url_chat: https://chatgpt.com/c/6a00c5ab-2158-83eb-b62d-285ca22b647a
+        file_output: paper_ream_oomp.svg
+        file_template: source_file\template_jinja\oomp_paper_sheet\template_jinja_paper_ream_oomlout_297_mm_210_mm\working.svg.j2
+        search_and_replace: []
+    file_test: paper_ream_oomp.pdf
+oomp_key: oomp_paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_length_1: p
+taxonomy_1_length_2: pa
+taxonomy_1_length_3: pap
+taxonomy_1_length_4: pape
+taxonomy_1_length_5: paper
+taxonomy_1_upper: PAPER
+taxonomy_1_upper_length_1: P
+taxonomy_1_upper_length_2: PA
+taxonomy_1_upper_length_3: PAP
+taxonomy_1_upper_length_4: PAPE
+taxonomy_1_upper_length_5: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_length_1: s
+taxonomy_2_length_2: sh
+taxonomy_2_length_3: she
+taxonomy_2_length_4: shee
+taxonomy_2_length_5: sheet
+taxonomy_2_upper: SHEET
+taxonomy_2_upper_length_1: S
+taxonomy_2_upper_length_2: SH
+taxonomy_2_upper_length_3: SHE
+taxonomy_2_upper_length_4: SHEE
+taxonomy_2_upper_length_5: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: a4
+taxonomy_3_length_3: a4
+taxonomy_3_length_4: a4
+taxonomy_3_length_5: a4
+taxonomy_3_upper: A4
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: A4
+taxonomy_3_upper_length_3: A4
+taxonomy_3_upper_length_4: A4
+taxonomy_3_upper_length_5: A4
+taxonomy_4: 100_gsm
+taxonomy_4_capital: 100 Gsm
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_length_1: '1'
+taxonomy_4_length_2: '10'
+taxonomy_4_length_3: '100'
+taxonomy_4_length_4: '100_'
+taxonomy_4_length_5: 100_g
+taxonomy_4_upper: 100_GSM
+taxonomy_4_upper_length_1: '1'
+taxonomy_4_upper_length_2: '10'
+taxonomy_4_upper_length_3: '100'
+taxonomy_4_upper_length_4: '100_'
+taxonomy_4_upper_length_5: 100_G
+taxonomy_5: white_colour
+taxonomy_5_capital: White Colour
+taxonomy_5_first_letter: w
+taxonomy_5_first_letter_upper: W
+taxonomy_5_length_1: w
+taxonomy_5_length_2: wh
+taxonomy_5_length_3: whi
+taxonomy_5_length_4: whit
+taxonomy_5_length_5: white
+taxonomy_5_upper: WHITE_COLOUR
+taxonomy_5_upper_length_1: W
+taxonomy_5_upper_length_2: WH
+taxonomy_5_upper_length_3: WHI
+taxonomy_5_upper_length_4: WHIT
+taxonomy_5_upper_length_5: WHITE
+taxonomy_6: glossy_finish
+taxonomy_6_capital: Glossy Finish
+taxonomy_6_first_letter: g
+taxonomy_6_first_letter_upper: G
+taxonomy_6_length_1: g
+taxonomy_6_length_2: gl
+taxonomy_6_length_3: glo
+taxonomy_6_length_4: glos
+taxonomy_6_length_5: gloss
+taxonomy_6_upper: GLOSSY_FINISH
+taxonomy_6_upper_length_1: G
+taxonomy_6_upper_length_2: GL
+taxonomy_6_upper_length_3: GLO
+taxonomy_6_upper_length_4: GLOS
+taxonomy_6_upper_length_5: GLOSS
+taxonomy_7: textured
+taxonomy_7_capital: Textured
+taxonomy_7_first_letter: t
+taxonomy_7_first_letter_upper: T
+taxonomy_7_length_1: t
+taxonomy_7_length_2: te
+taxonomy_7_length_3: tex
+taxonomy_7_length_4: text
+taxonomy_7_length_5: textu
+taxonomy_7_upper: TEXTURED
+taxonomy_7_upper_length_1: T
+taxonomy_7_upper_length_2: TE
+taxonomy_7_upper_length_3: TEX
+taxonomy_7_upper_length_4: TEXT
+taxonomy_7_upper_length_5: TEXTU
+taxonomy_8: watermarked
+taxonomy_8_capital: Watermarked
+taxonomy_8_first_letter: w
+taxonomy_8_first_letter_upper: W
+taxonomy_8_length_1: w
+taxonomy_8_length_2: wa
+taxonomy_8_length_3: wat
+taxonomy_8_length_4: wate
+taxonomy_8_length_5: water
+taxonomy_8_upper: WATERMARKED
+taxonomy_8_upper_length_1: W
+taxonomy_8_upper_length_2: WA
+taxonomy_8_upper_length_3: WAT
+taxonomy_8_upper_length_4: WATE
+taxonomy_8_upper_length_5: WATER
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/6a00c5ab-2158-83eb-b62d-285ca22b647a
