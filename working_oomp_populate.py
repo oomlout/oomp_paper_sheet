@@ -4,7 +4,7 @@ import itertools
 
 from requests import options
 
-from oomp_populate_helper import write_extras
+from oomp_populate_helper import write_extras, build_oomp_id
 
 
 def main(**kwargs):
@@ -105,7 +105,9 @@ def main(**kwargs):
         
         extras.append(extra)
 
-
+    ######### add notes from an id string
+    import working_oomp_populate_extra_detail
+    working_oomp_populate_extra_detail.main(extras=extras)
 
     write_extras(extras, default_input)
 

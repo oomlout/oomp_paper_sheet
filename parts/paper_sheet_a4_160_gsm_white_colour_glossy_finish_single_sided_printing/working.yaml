@@ -1,0 +1,504 @@
+bip_39_2_word_array:
+- fragile
+- name
+bip_39_2_word_no_space: fragilename
+bip_39_2_word_space: fragile name
+bip_39_2_word_underscore: fragile_name
+bip_39_3_word_array:
+- fragile
+- name
+- frost
+bip_39_3_word_no_space: fragilenamefrost
+bip_39_3_word_space: fragile name frost
+bip_39_3_word_underscore: fragile_name_frost
+bip_39_full_array:
+- fragile
+- name
+- frost
+- furnace
+- trip
+- essence
+- debate
+- click
+- aisle
+- vibrant
+- follow
+- obvious
+bip_39_full_no_space: fragilenamefrostfurnacetripessencedebateclickaislevibrantfollowobvious
+bip_39_full_space: fragile name frost furnace trip essence debate click aisle vibrant
+    follow obvious
+bip_39_full_underscore: fragile_name_frost_furnace_trip_essence_debate_click_aisle_vibrant_follow_obvious
+color_band_project_bolt_1: black
+color_band_project_bolt_1_string: white colour
+color_band_project_bolt_2: orange
+color_band_project_bolt_2_string: 160 gsm
+color_band_project_bolt_3: brown
+color_band_project_bolt_3_string: a4
+color_band_string_project_bolt: colour_band_brown_orange_black
+color_band_string_project_bolt_string: colour_band_a4_160 gsm_white colour
+color_band_taxonomy_3: brown
+color_band_taxonomy_4: orange
+color_band_taxonomy_5: black
+directory: parts/paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+generate_stl: false
+id: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+id_no_class: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+id_no_size: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+id_no_type: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+md5: 5c725975af2e8c9a8e115505be6d6acc
+md5_10: 5c725975af
+md5_10_upper: 5C725975AF
+md5_5: 5c725
+md5_5_upper: 5C725
+md5_6: 5c7259
+md5_6_alpha: 3luu1
+md5_6_alpha_upper: 3LUU1
+md5_6_upper: 5C7259
+name: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single Sided Printing
+name_no_class: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single Sided Printing
+name_no_size: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single Sided Printing
+name_no_type: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single Sided Printing
+name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single Sided Printing
+name_space: paper sheet a4 160 gsm white colour glossy finish single sided printing
+name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH SINGLE SIDED PRINTING
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            color_band_project_bolt_1: black
+            color_band_project_bolt_1_string: white colour
+            color_band_project_bolt_2: orange
+            color_band_project_bolt_2_string: 160 gsm
+            color_band_project_bolt_3: brown
+            color_band_project_bolt_3_string: a4
+            color_band_string_project_bolt: colour_band_brown_orange_black
+            color_band_string_project_bolt_string: colour_band_a4_160 gsm_white colour
+            color_band_taxonomy_3: brown
+            color_band_taxonomy_4: orange
+            color_band_taxonomy_5: black
+            directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+            name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+            name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single
+                Sided Printing
+            name_space: paper sheet a4 160 gsm white colour glossy finish single sided
+                printing
+            name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH SINGLE SIDED
+                PRINTING
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 160_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: single_sided_printing
+            taxonomy_8: ''
+            taxonomy_9: ''
+            url_chat: ''
+        file_output: label_oomp.svg
+        file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_oomp.pdf
+oomlout_ai_roboclick_2:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            color_band_project_bolt_1: black
+            color_band_project_bolt_1_string: white colour
+            color_band_project_bolt_2: orange
+            color_band_project_bolt_2_string: 160 gsm
+            color_band_project_bolt_3: brown
+            color_band_project_bolt_3_string: a4
+            color_band_string_project_bolt: colour_band_brown_orange_black
+            color_band_string_project_bolt_string: colour_band_a4_160 gsm_white colour
+            color_band_taxonomy_3: brown
+            color_band_taxonomy_4: orange
+            color_band_taxonomy_5: black
+            directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+            name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+            name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single
+                Sided Printing
+            name_space: paper sheet a4 160 gsm white colour glossy finish single sided
+                printing
+            name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH SINGLE SIDED
+                PRINTING
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        color_band_project_bolt_1: black
+                        color_band_project_bolt_1_string: white colour
+                        color_band_project_bolt_2: orange
+                        color_band_project_bolt_2_string: 160 gsm
+                        color_band_project_bolt_3: brown
+                        color_band_project_bolt_3_string: a4
+                        color_band_string_project_bolt: colour_band_brown_orange_black
+                        color_band_string_project_bolt_string: colour_band_a4_160
+                            gsm_white colour
+                        color_band_taxonomy_3: brown
+                        color_band_taxonomy_4: orange
+                        color_band_taxonomy_5: black
+                        directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                        name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                        name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish
+                            Single Sided Printing
+                        name_space: paper sheet a4 160 gsm white colour glossy finish
+                            single sided printing
+                        name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH
+                            SINGLE SIDED PRINTING
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 160_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: single_sided_printing
+                        taxonomy_8: ''
+                        taxonomy_9: ''
+                        url_chat: ''
+                    file_output: label_oomp.svg
+                    file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: label_oomp.pdf
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 160_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: single_sided_printing
+            taxonomy_8: ''
+            taxonomy_9: ''
+            url_chat: ''
+        file_output: paper_ream_oomp.svg
+        file_template: source_file\template_jinja\oomp_paper_sheet\template_jinja_paper_ream_oomlout_297_mm_210_mm\working.svg.j2
+        search_and_replace: []
+    file_test: paper_ream_oomp.pdf
+oomlout_ai_roboclick_3:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            color_band_project_bolt_1: black
+            color_band_project_bolt_1_string: white colour
+            color_band_project_bolt_2: orange
+            color_band_project_bolt_2_string: 160 gsm
+            color_band_project_bolt_3: brown
+            color_band_project_bolt_3_string: a4
+            color_band_string_project_bolt: colour_band_brown_orange_black
+            color_band_string_project_bolt_string: colour_band_a4_160 gsm_white colour
+            color_band_taxonomy_3: brown
+            color_band_taxonomy_4: orange
+            color_band_taxonomy_5: black
+            directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+            name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+            name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish Single
+                Sided Printing
+            name_space: paper sheet a4 160 gsm white colour glossy finish single sided
+                printing
+            name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH SINGLE SIDED
+                PRINTING
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        color_band_project_bolt_1: black
+                        color_band_project_bolt_1_string: white colour
+                        color_band_project_bolt_2: orange
+                        color_band_project_bolt_2_string: 160 gsm
+                        color_band_project_bolt_3: brown
+                        color_band_project_bolt_3_string: a4
+                        color_band_string_project_bolt: colour_band_brown_orange_black
+                        color_band_string_project_bolt_string: colour_band_a4_160
+                            gsm_white colour
+                        color_band_taxonomy_3: brown
+                        color_band_taxonomy_4: orange
+                        color_band_taxonomy_5: black
+                        directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                        name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                        name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish
+                            Single Sided Printing
+                        name_space: paper sheet a4 160 gsm white colour glossy finish
+                            single sided printing
+                        name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH
+                            SINGLE SIDED PRINTING
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 160_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: single_sided_printing
+                        taxonomy_8: ''
+                        taxonomy_9: ''
+                        url_chat: ''
+                    file_output: label_oomp.svg
+                    file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: label_oomp.pdf
+            oomlout_ai_roboclick_2:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        color_band_project_bolt_1: black
+                        color_band_project_bolt_1_string: white colour
+                        color_band_project_bolt_2: orange
+                        color_band_project_bolt_2_string: 160 gsm
+                        color_band_project_bolt_3: brown
+                        color_band_project_bolt_3_string: a4
+                        color_band_string_project_bolt: colour_band_brown_orange_black
+                        color_band_string_project_bolt_string: colour_band_a4_160
+                            gsm_white colour
+                        color_band_taxonomy_3: brown
+                        color_band_taxonomy_4: orange
+                        color_band_taxonomy_5: black
+                        directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                        name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                        name_proper: Paper Sheet A4 160 Gsm White Colour Glossy Finish
+                            Single Sided Printing
+                        name_space: paper sheet a4 160 gsm white colour glossy finish
+                            single sided printing
+                        name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR GLOSSY FINISH
+                            SINGLE SIDED PRINTING
+                        oomlout_ai_roboclick_1:
+                            actions:
+                            -   command: text_jinja_template
+                                convert_to_pdf: false
+                                convert_to_png: false
+                                dict_data:
+                                    color_band_project_bolt_1: black
+                                    color_band_project_bolt_1_string: white colour
+                                    color_band_project_bolt_2: orange
+                                    color_band_project_bolt_2_string: 160 gsm
+                                    color_band_project_bolt_3: brown
+                                    color_band_project_bolt_3_string: a4
+                                    color_band_string_project_bolt: colour_band_brown_orange_black
+                                    color_band_string_project_bolt_string: colour_band_a4_160
+                                        gsm_white colour
+                                    color_band_taxonomy_3: brown
+                                    color_band_taxonomy_4: orange
+                                    color_band_taxonomy_5: black
+                                    directory: parts\paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                                    name: paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+                                    name_proper: Paper Sheet A4 160 Gsm White Colour
+                                        Glossy Finish Single Sided Printing
+                                    name_space: paper sheet a4 160 gsm white colour
+                                        glossy finish single sided printing
+                                    name_upper: PAPER SHEET A4 160 GSM WHITE COLOUR
+                                        GLOSSY FINISH SINGLE SIDED PRINTING
+                                    taxonomy_1: paper
+                                    taxonomy_10: ''
+                                    taxonomy_11: ''
+                                    taxonomy_12: ''
+                                    taxonomy_13: ''
+                                    taxonomy_14: ''
+                                    taxonomy_15: ''
+                                    taxonomy_2: sheet
+                                    taxonomy_3: a4
+                                    taxonomy_4: 160_gsm
+                                    taxonomy_5: white_colour
+                                    taxonomy_6: glossy_finish
+                                    taxonomy_7: single_sided_printing
+                                    taxonomy_8: ''
+                                    taxonomy_9: ''
+                                    url_chat: ''
+                                file_output: label_oomp.svg
+                                file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                                search_and_replace: []
+                            file_test: label_oomp.pdf
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 160_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: single_sided_printing
+                        taxonomy_8: ''
+                        taxonomy_9: ''
+                        url_chat: ''
+                    file_output: paper_ream_oomp.svg
+                    file_template: source_file\template_jinja\oomp_paper_sheet\template_jinja_paper_ream_oomlout_297_mm_210_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: paper_ream_oomp.pdf
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 160_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: single_sided_printing
+            taxonomy_8: ''
+            taxonomy_9: ''
+            url_chat: ''
+        file_output: label_bolt_image.svg
+        file_template: source_file\template_jinja\oomp_hardware_bolt_version_5\template_jinja_label_oomp_bolt_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_bolt_image.pdf
+oomp_key: oomp_paper_sheet_a4_160_gsm_white_colour_glossy_finish_single_sided_printing
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_length_1: p
+taxonomy_1_length_2: pa
+taxonomy_1_length_3: pap
+taxonomy_1_length_4: pape
+taxonomy_1_length_5: paper
+taxonomy_1_upper: PAPER
+taxonomy_1_upper_length_1: P
+taxonomy_1_upper_length_2: PA
+taxonomy_1_upper_length_3: PAP
+taxonomy_1_upper_length_4: PAPE
+taxonomy_1_upper_length_5: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_length_1: s
+taxonomy_2_length_2: sh
+taxonomy_2_length_3: she
+taxonomy_2_length_4: shee
+taxonomy_2_length_5: sheet
+taxonomy_2_upper: SHEET
+taxonomy_2_upper_length_1: S
+taxonomy_2_upper_length_2: SH
+taxonomy_2_upper_length_3: SHE
+taxonomy_2_upper_length_4: SHEE
+taxonomy_2_upper_length_5: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: a4
+taxonomy_3_length_3: a4
+taxonomy_3_length_4: a4
+taxonomy_3_length_5: a4
+taxonomy_3_upper: A4
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: A4
+taxonomy_3_upper_length_3: A4
+taxonomy_3_upper_length_4: A4
+taxonomy_3_upper_length_5: A4
+taxonomy_4: 160_gsm
+taxonomy_4_capital: 160 Gsm
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_length_1: '1'
+taxonomy_4_length_2: '16'
+taxonomy_4_length_3: '160'
+taxonomy_4_length_4: '160_'
+taxonomy_4_length_5: 160_g
+taxonomy_4_upper: 160_GSM
+taxonomy_4_upper_length_1: '1'
+taxonomy_4_upper_length_2: '16'
+taxonomy_4_upper_length_3: '160'
+taxonomy_4_upper_length_4: '160_'
+taxonomy_4_upper_length_5: 160_G
+taxonomy_5: white_colour
+taxonomy_5_capital: White Colour
+taxonomy_5_first_letter: w
+taxonomy_5_first_letter_upper: W
+taxonomy_5_length_1: w
+taxonomy_5_length_2: wh
+taxonomy_5_length_3: whi
+taxonomy_5_length_4: whit
+taxonomy_5_length_5: white
+taxonomy_5_upper: WHITE_COLOUR
+taxonomy_5_upper_length_1: W
+taxonomy_5_upper_length_2: WH
+taxonomy_5_upper_length_3: WHI
+taxonomy_5_upper_length_4: WHIT
+taxonomy_5_upper_length_5: WHITE
+taxonomy_6: glossy_finish
+taxonomy_6_capital: Glossy Finish
+taxonomy_6_first_letter: g
+taxonomy_6_first_letter_upper: G
+taxonomy_6_length_1: g
+taxonomy_6_length_2: gl
+taxonomy_6_length_3: glo
+taxonomy_6_length_4: glos
+taxonomy_6_length_5: gloss
+taxonomy_6_upper: GLOSSY_FINISH
+taxonomy_6_upper_length_1: G
+taxonomy_6_upper_length_2: GL
+taxonomy_6_upper_length_3: GLO
+taxonomy_6_upper_length_4: GLOS
+taxonomy_6_upper_length_5: GLOSS
+taxonomy_7: single_sided_printing
+taxonomy_7_capital: Single Sided Printing
+taxonomy_7_first_letter: s
+taxonomy_7_first_letter_upper: S
+taxonomy_7_length_1: s
+taxonomy_7_length_2: si
+taxonomy_7_length_3: sin
+taxonomy_7_length_4: sing
+taxonomy_7_length_5: singl
+taxonomy_7_upper: SINGLE_SIDED_PRINTING
+taxonomy_7_upper_length_1: S
+taxonomy_7_upper_length_2: SI
+taxonomy_7_upper_length_3: SIN
+taxonomy_7_upper_length_4: SING
+taxonomy_7_upper_length_5: SINGL
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: ''

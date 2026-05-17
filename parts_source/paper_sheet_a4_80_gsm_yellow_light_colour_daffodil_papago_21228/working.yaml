@@ -1,15 +1,26 @@
+color_band_project_bolt_1: black
+color_band_project_bolt_1_string: yellow light colour
+color_band_project_bolt_2: brown
+color_band_project_bolt_2_string: 80 gsm
+color_band_project_bolt_3: brown
+color_band_project_bolt_3_string: a4
+color_band_string_project_bolt: colour_band_brown_brown_black
+color_band_string_project_bolt_string: colour_band_a4_80 gsm_yellow light colour
+color_band_taxonomy_3: brown
+color_band_taxonomy_4: brown
+color_band_taxonomy_5: black
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: daffodil
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_15: '21228'
 taxonomy_2: sheet
 taxonomy_3: a4
 taxonomy_4: 80_gsm
 taxonomy_5: yellow_light_colour
-taxonomy_6: ''
+taxonomy_6: daffodil
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

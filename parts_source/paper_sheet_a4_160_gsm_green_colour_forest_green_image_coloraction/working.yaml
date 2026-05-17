@@ -1,15 +1,26 @@
+color_band_project_bolt_1: orange
+color_band_project_bolt_1_string: green colour
+color_band_project_bolt_2: orange
+color_band_project_bolt_2_string: 160 gsm
+color_band_project_bolt_3: brown
+color_band_project_bolt_3_string: a4
+color_band_string_project_bolt: colour_band_brown_orange_orange
+color_band_string_project_bolt_string: colour_band_a4_160 gsm_green colour
+color_band_taxonomy_3: brown
+color_band_taxonomy_4: orange
+color_band_taxonomy_5: orange
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: forest_green
+taxonomy_13: ''
 taxonomy_14: image_coloraction
 taxonomy_15: ''
 taxonomy_2: sheet
 taxonomy_3: a4
 taxonomy_4: 160_gsm
 taxonomy_5: green_colour
-taxonomy_6: ''
+taxonomy_6: forest_green
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''

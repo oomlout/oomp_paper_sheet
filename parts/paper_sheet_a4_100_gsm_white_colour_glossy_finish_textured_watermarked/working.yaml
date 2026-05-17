@@ -1,0 +1,518 @@
+bip_39_2_word_array:
+- nephew
+- hire
+bip_39_2_word_no_space: nephewhire
+bip_39_2_word_space: nephew hire
+bip_39_2_word_underscore: nephew_hire
+bip_39_3_word_array:
+- nephew
+- hire
+- alone
+bip_39_3_word_no_space: nephewhirealone
+bip_39_3_word_space: nephew hire alone
+bip_39_3_word_underscore: nephew_hire_alone
+bip_39_full_array:
+- nephew
+- hire
+- alone
+- reject
+- melt
+- crouch
+- army
+- notable
+- burden
+- used
+- hint
+- interest
+bip_39_full_no_space: nephewhirealonerejectmeltcroucharmynotableburdenusedhintinterest
+bip_39_full_space: nephew hire alone reject melt crouch army notable burden used hint
+    interest
+bip_39_full_underscore: nephew_hire_alone_reject_melt_crouch_army_notable_burden_used_hint_interest
+color_band_project_bolt_1: black
+color_band_project_bolt_1_string: white colour
+color_band_project_bolt_2: red
+color_band_project_bolt_2_string: 100 gsm
+color_band_project_bolt_3: brown
+color_band_project_bolt_3_string: a4
+color_band_string_project_bolt: colour_band_brown_red_black
+color_band_string_project_bolt_string: colour_band_a4_100 gsm_white colour
+color_band_taxonomy_3: brown
+color_band_taxonomy_4: red
+color_band_taxonomy_5: black
+directory: parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+generate_stl: false
+id: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+id_no_class: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+id_no_size: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+id_no_type: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+md5: 944d801bda78aa684304b41e9df9af3a
+md5_10: 944d801bda
+md5_10_upper: 944D801BDA
+md5_5: 944d8
+md5_5_upper: 944D8
+md5_6: 944d80
+md5_6_alpha: 5sbcw
+md5_6_alpha_upper: 5SBCW
+md5_6_upper: 944D80
+name: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_no_class: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_no_size: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_no_type: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured Watermarked
+name_space: paper sheet a4 100 gsm white colour glossy finish textured watermarked
+name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED WATERMARKED
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            color_band_project_bolt_1: black
+            color_band_project_bolt_1_string: white colour
+            color_band_project_bolt_2: red
+            color_band_project_bolt_2_string: 100 gsm
+            color_band_project_bolt_3: brown
+            color_band_project_bolt_3_string: a4
+            color_band_string_project_bolt: colour_band_brown_red_black
+            color_band_string_project_bolt_string: colour_band_a4_100 gsm_white colour
+            color_band_taxonomy_3: brown
+            color_band_taxonomy_4: red
+            color_band_taxonomy_5: black
+            directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured
+                Watermarked
+            name_space: paper sheet a4 100 gsm white colour glossy finish textured
+                watermarked
+            name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED
+                WATERMARKED
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 100_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: textured
+            taxonomy_8: watermarked
+            taxonomy_9: ''
+            url_chat: ''
+        file_output: label_oomp.svg
+        file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_oomp.pdf
+oomlout_ai_roboclick_2:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            color_band_project_bolt_1: black
+            color_band_project_bolt_1_string: white colour
+            color_band_project_bolt_2: red
+            color_band_project_bolt_2_string: 100 gsm
+            color_band_project_bolt_3: brown
+            color_band_project_bolt_3_string: a4
+            color_band_string_project_bolt: colour_band_brown_red_black
+            color_band_string_project_bolt_string: colour_band_a4_100 gsm_white colour
+            color_band_taxonomy_3: brown
+            color_band_taxonomy_4: red
+            color_band_taxonomy_5: black
+            directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured
+                Watermarked
+            name_space: paper sheet a4 100 gsm white colour glossy finish textured
+                watermarked
+            name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED
+                WATERMARKED
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        color_band_project_bolt_1: black
+                        color_band_project_bolt_1_string: white colour
+                        color_band_project_bolt_2: red
+                        color_band_project_bolt_2_string: 100 gsm
+                        color_band_project_bolt_3: brown
+                        color_band_project_bolt_3_string: a4
+                        color_band_string_project_bolt: colour_band_brown_red_black
+                        color_band_string_project_bolt_string: colour_band_a4_100
+                            gsm_white colour
+                        color_band_taxonomy_3: brown
+                        color_band_taxonomy_4: red
+                        color_band_taxonomy_5: black
+                        directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish
+                            Textured Watermarked
+                        name_space: paper sheet a4 100 gsm white colour glossy finish
+                            textured watermarked
+                        name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH
+                            TEXTURED WATERMARKED
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 100_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: textured
+                        taxonomy_8: watermarked
+                        taxonomy_9: ''
+                        url_chat: ''
+                    file_output: label_oomp.svg
+                    file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: label_oomp.pdf
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 100_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: textured
+            taxonomy_8: watermarked
+            taxonomy_9: ''
+            url_chat: ''
+        file_output: paper_ream_oomp.svg
+        file_template: source_file\template_jinja\oomp_paper_sheet\template_jinja_paper_ream_oomlout_297_mm_210_mm\working.svg.j2
+        search_and_replace: []
+    file_test: paper_ream_oomp.pdf
+oomlout_ai_roboclick_3:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            color_band_project_bolt_1: black
+            color_band_project_bolt_1_string: white colour
+            color_band_project_bolt_2: red
+            color_band_project_bolt_2_string: 100 gsm
+            color_band_project_bolt_3: brown
+            color_band_project_bolt_3_string: a4
+            color_band_string_project_bolt: colour_band_brown_red_black
+            color_band_string_project_bolt_string: colour_band_a4_100 gsm_white colour
+            color_band_taxonomy_3: brown
+            color_band_taxonomy_4: red
+            color_band_taxonomy_5: black
+            directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+            name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish Textured
+                Watermarked
+            name_space: paper sheet a4 100 gsm white colour glossy finish textured
+                watermarked
+            name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH TEXTURED
+                WATERMARKED
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        color_band_project_bolt_1: black
+                        color_band_project_bolt_1_string: white colour
+                        color_band_project_bolt_2: red
+                        color_band_project_bolt_2_string: 100 gsm
+                        color_band_project_bolt_3: brown
+                        color_band_project_bolt_3_string: a4
+                        color_band_string_project_bolt: colour_band_brown_red_black
+                        color_band_string_project_bolt_string: colour_band_a4_100
+                            gsm_white colour
+                        color_band_taxonomy_3: brown
+                        color_band_taxonomy_4: red
+                        color_band_taxonomy_5: black
+                        directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish
+                            Textured Watermarked
+                        name_space: paper sheet a4 100 gsm white colour glossy finish
+                            textured watermarked
+                        name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH
+                            TEXTURED WATERMARKED
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 100_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: textured
+                        taxonomy_8: watermarked
+                        taxonomy_9: ''
+                        url_chat: ''
+                    file_output: label_oomp.svg
+                    file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: label_oomp.pdf
+            oomlout_ai_roboclick_2:
+                actions:
+                -   command: text_jinja_template
+                    convert_to_pdf: false
+                    convert_to_png: false
+                    dict_data:
+                        color_band_project_bolt_1: black
+                        color_band_project_bolt_1_string: white colour
+                        color_band_project_bolt_2: red
+                        color_band_project_bolt_2_string: 100 gsm
+                        color_band_project_bolt_3: brown
+                        color_band_project_bolt_3_string: a4
+                        color_band_string_project_bolt: colour_band_brown_red_black
+                        color_band_string_project_bolt_string: colour_band_a4_100
+                            gsm_white colour
+                        color_band_taxonomy_3: brown
+                        color_band_taxonomy_4: red
+                        color_band_taxonomy_5: black
+                        directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                        name_proper: Paper Sheet A4 100 Gsm White Colour Glossy Finish
+                            Textured Watermarked
+                        name_space: paper sheet a4 100 gsm white colour glossy finish
+                            textured watermarked
+                        name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR GLOSSY FINISH
+                            TEXTURED WATERMARKED
+                        oomlout_ai_roboclick_1:
+                            actions:
+                            -   command: text_jinja_template
+                                convert_to_pdf: false
+                                convert_to_png: false
+                                dict_data:
+                                    color_band_project_bolt_1: black
+                                    color_band_project_bolt_1_string: white colour
+                                    color_band_project_bolt_2: red
+                                    color_band_project_bolt_2_string: 100 gsm
+                                    color_band_project_bolt_3: brown
+                                    color_band_project_bolt_3_string: a4
+                                    color_band_string_project_bolt: colour_band_brown_red_black
+                                    color_band_string_project_bolt_string: colour_band_a4_100
+                                        gsm_white colour
+                                    color_band_taxonomy_3: brown
+                                    color_band_taxonomy_4: red
+                                    color_band_taxonomy_5: black
+                                    directory: parts\paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                                    name: paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+                                    name_proper: Paper Sheet A4 100 Gsm White Colour
+                                        Glossy Finish Textured Watermarked
+                                    name_space: paper sheet a4 100 gsm white colour
+                                        glossy finish textured watermarked
+                                    name_upper: PAPER SHEET A4 100 GSM WHITE COLOUR
+                                        GLOSSY FINISH TEXTURED WATERMARKED
+                                    taxonomy_1: paper
+                                    taxonomy_10: ''
+                                    taxonomy_11: ''
+                                    taxonomy_12: ''
+                                    taxonomy_13: ''
+                                    taxonomy_14: ''
+                                    taxonomy_15: ''
+                                    taxonomy_2: sheet
+                                    taxonomy_3: a4
+                                    taxonomy_4: 100_gsm
+                                    taxonomy_5: white_colour
+                                    taxonomy_6: glossy_finish
+                                    taxonomy_7: textured
+                                    taxonomy_8: watermarked
+                                    taxonomy_9: ''
+                                    url_chat: ''
+                                file_output: label_oomp.svg
+                                file_template: source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+                                search_and_replace: []
+                            file_test: label_oomp.pdf
+                        taxonomy_1: paper
+                        taxonomy_10: ''
+                        taxonomy_11: ''
+                        taxonomy_12: ''
+                        taxonomy_13: ''
+                        taxonomy_14: ''
+                        taxonomy_15: ''
+                        taxonomy_2: sheet
+                        taxonomy_3: a4
+                        taxonomy_4: 100_gsm
+                        taxonomy_5: white_colour
+                        taxonomy_6: glossy_finish
+                        taxonomy_7: textured
+                        taxonomy_8: watermarked
+                        taxonomy_9: ''
+                        url_chat: ''
+                    file_output: paper_ream_oomp.svg
+                    file_template: source_file\template_jinja\oomp_paper_sheet\template_jinja_paper_ream_oomlout_297_mm_210_mm\working.svg.j2
+                    search_and_replace: []
+                file_test: paper_ream_oomp.pdf
+            taxonomy_1: paper
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: sheet
+            taxonomy_3: a4
+            taxonomy_4: 100_gsm
+            taxonomy_5: white_colour
+            taxonomy_6: glossy_finish
+            taxonomy_7: textured
+            taxonomy_8: watermarked
+            taxonomy_9: ''
+            url_chat: ''
+        file_output: label_bolt_image.svg
+        file_template: source_file\template_jinja\oomp_hardware_bolt_version_5\template_jinja_label_oomp_bolt_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_bolt_image.pdf
+oomp_key: oomp_paper_sheet_a4_100_gsm_white_colour_glossy_finish_textured_watermarked
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
+taxonomy_1: paper
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Paper
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_length_1: p
+taxonomy_1_length_2: pa
+taxonomy_1_length_3: pap
+taxonomy_1_length_4: pape
+taxonomy_1_length_5: paper
+taxonomy_1_upper: PAPER
+taxonomy_1_upper_length_1: P
+taxonomy_1_upper_length_2: PA
+taxonomy_1_upper_length_3: PAP
+taxonomy_1_upper_length_4: PAPE
+taxonomy_1_upper_length_5: PAPER
+taxonomy_2: sheet
+taxonomy_2_capital: Sheet
+taxonomy_2_first_letter: s
+taxonomy_2_first_letter_upper: S
+taxonomy_2_length_1: s
+taxonomy_2_length_2: sh
+taxonomy_2_length_3: she
+taxonomy_2_length_4: shee
+taxonomy_2_length_5: sheet
+taxonomy_2_upper: SHEET
+taxonomy_2_upper_length_1: S
+taxonomy_2_upper_length_2: SH
+taxonomy_2_upper_length_3: SHE
+taxonomy_2_upper_length_4: SHEE
+taxonomy_2_upper_length_5: SHEET
+taxonomy_3: a4
+taxonomy_3_capital: A4
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: a4
+taxonomy_3_length_3: a4
+taxonomy_3_length_4: a4
+taxonomy_3_length_5: a4
+taxonomy_3_upper: A4
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: A4
+taxonomy_3_upper_length_3: A4
+taxonomy_3_upper_length_4: A4
+taxonomy_3_upper_length_5: A4
+taxonomy_4: 100_gsm
+taxonomy_4_capital: 100 Gsm
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_length_1: '1'
+taxonomy_4_length_2: '10'
+taxonomy_4_length_3: '100'
+taxonomy_4_length_4: '100_'
+taxonomy_4_length_5: 100_g
+taxonomy_4_upper: 100_GSM
+taxonomy_4_upper_length_1: '1'
+taxonomy_4_upper_length_2: '10'
+taxonomy_4_upper_length_3: '100'
+taxonomy_4_upper_length_4: '100_'
+taxonomy_4_upper_length_5: 100_G
+taxonomy_5: white_colour
+taxonomy_5_capital: White Colour
+taxonomy_5_first_letter: w
+taxonomy_5_first_letter_upper: W
+taxonomy_5_length_1: w
+taxonomy_5_length_2: wh
+taxonomy_5_length_3: whi
+taxonomy_5_length_4: whit
+taxonomy_5_length_5: white
+taxonomy_5_upper: WHITE_COLOUR
+taxonomy_5_upper_length_1: W
+taxonomy_5_upper_length_2: WH
+taxonomy_5_upper_length_3: WHI
+taxonomy_5_upper_length_4: WHIT
+taxonomy_5_upper_length_5: WHITE
+taxonomy_6: glossy_finish
+taxonomy_6_capital: Glossy Finish
+taxonomy_6_first_letter: g
+taxonomy_6_first_letter_upper: G
+taxonomy_6_length_1: g
+taxonomy_6_length_2: gl
+taxonomy_6_length_3: glo
+taxonomy_6_length_4: glos
+taxonomy_6_length_5: gloss
+taxonomy_6_upper: GLOSSY_FINISH
+taxonomy_6_upper_length_1: G
+taxonomy_6_upper_length_2: GL
+taxonomy_6_upper_length_3: GLO
+taxonomy_6_upper_length_4: GLOS
+taxonomy_6_upper_length_5: GLOSS
+taxonomy_7: textured
+taxonomy_7_capital: Textured
+taxonomy_7_first_letter: t
+taxonomy_7_first_letter_upper: T
+taxonomy_7_length_1: t
+taxonomy_7_length_2: te
+taxonomy_7_length_3: tex
+taxonomy_7_length_4: text
+taxonomy_7_length_5: textu
+taxonomy_7_upper: TEXTURED
+taxonomy_7_upper_length_1: T
+taxonomy_7_upper_length_2: TE
+taxonomy_7_upper_length_3: TEX
+taxonomy_7_upper_length_4: TEXT
+taxonomy_7_upper_length_5: TEXTU
+taxonomy_8: watermarked
+taxonomy_8_capital: Watermarked
+taxonomy_8_first_letter: w
+taxonomy_8_first_letter_upper: W
+taxonomy_8_length_1: w
+taxonomy_8_length_2: wa
+taxonomy_8_length_3: wat
+taxonomy_8_length_4: wate
+taxonomy_8_length_5: water
+taxonomy_8_upper: WATERMARKED
+taxonomy_8_upper_length_1: W
+taxonomy_8_upper_length_2: WA
+taxonomy_8_upper_length_3: WAT
+taxonomy_8_upper_length_4: WATE
+taxonomy_8_upper_length_5: WATER
+taxonomy_9: ''
+url_chat: ''

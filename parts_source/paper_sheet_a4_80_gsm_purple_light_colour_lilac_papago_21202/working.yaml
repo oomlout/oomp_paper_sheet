@@ -1,15 +1,26 @@
+color_band_project_bolt_1: white
+color_band_project_bolt_1_string: purple light colour
+color_band_project_bolt_2: brown
+color_band_project_bolt_2_string: 80 gsm
+color_band_project_bolt_3: brown
+color_band_project_bolt_3_string: a4
+color_band_string_project_bolt: colour_band_brown_brown_white
+color_band_string_project_bolt_string: colour_band_a4_80 gsm_purple light colour
+color_band_taxonomy_3: brown
+color_band_taxonomy_4: brown
+color_band_taxonomy_5: white
 taxonomy_1: paper
 taxonomy_10: ''
 taxonomy_11: ''
 taxonomy_12: ''
-taxonomy_13: lilac
+taxonomy_13: ''
 taxonomy_14: papago
 taxonomy_15: '21202'
 taxonomy_2: sheet
 taxonomy_3: a4
 taxonomy_4: 80_gsm
 taxonomy_5: purple_light_colour
-taxonomy_6: ''
+taxonomy_6: lilac
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
