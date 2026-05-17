@@ -74,6 +74,7 @@ def main(**kwargs):
         options.append({"taxonomy_3": current_sheet, "taxonomy_4": current_weight,       "taxonomy_5": "white_colour", "taxonomy_6": "glossy_finish", "taxonomy_7": "single_sided_printing"})
 
         #a3
+        current_sheet = "a3"
         current_weight = "80_gsm"
         options.append({"taxonomy_3": current_sheet, "taxonomy_4": current_weight,       "taxonomy_5": "white_colour"})
 
